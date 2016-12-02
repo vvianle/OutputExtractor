@@ -1,0 +1,220 @@
+.
+.
+Unknown CVSS access subvector (
+)!\n
+Unknown CVSS access complexity subvector (
+)!\n
+Unknown CVSS authentication subvector (
+)!\n
+Unknown CVSS confidentiality subvector (
+)!\n
+Unknown CVSS integrity subvector (
+)!\n
+Unknown CVSS availability subvector (
+)!\n
+0.0
+.
+
+ \t\n\r
+ \t\n\r
+\n
+cvss_vector
+cvss_base_score
+cvss_temporal_vector
+cvss_base_score
+cvss_temporal_score
+cvss_base_score
+cvss_vector
+cvss_temporal_score
+cvss_temporal_vector
+cvss_base_score
+risk_factor
+None
+cvss_base_score
+risk_factor
+Critical
+cvss_base_score
+risk_factor
+High
+cvss_base_score
+risk_factor
+Medium
+cvss_base_score
+risk_factor
+Low
+risk_factor
+None
+
+synopsis
+Synopsis :\n\n
+\n\n
+description
+Description :\n\n
+\n\n
+see_also
+See also :\n\n
+\n\n
+solution
+Solution :\n\n
+\n\n
+risk_factor
+Risk factor :\n\n
+cvss_base_score
+ / CVSS Base Score : 
+cvss_vector
+\n(
+)\n
+\n
+cvss_temporal_score
+cvss_temporal_vector
+CVSS Temporal Score : 
+\n
+(
+)\n
+\n
+exploit_available
+exploit_available
+Public Exploit Available : 
+\n
+...
+OSVDB
+CWE
+ 
+^2[0-9]+/[0-9]+/[0-9]+$
+plugin_modification_date
+Hole
+Warning
+Note
+global_settings/network_type
+LAN
+Internet
+global_settings/report_verbosity
+Normal
+Quiet
+Verbose
+global_settings/report_paranoia
+Avoid false alarms
+Normal
+Paranoid
+global_settings/debug_level
+global_settings/experimental_scripts
+no
+yes
+global_settings/thorough_tests
+no
+yes
+(
+): 
+\n
+\n
+DEBUG: 
+(
+): 
+\n
+\n
+ERR: 
+beginning_of_response2: missing parameter resp.
+^[ \t]+
+
+\n
+[...]\n
+www/
+/XSS
+www/
+/XSRF
+www/
+/SQLInjection
+text/plain
+-
+-
+ snip 
+-
+s
+
+\nNessus was able to execute the command "
+" using the
+\nfollowing request
+ :
+\n
+\n
+-
+ Request #
+-
+\n
+
+\n
+\n
+\n
+\n\n
+This produced the following truncated output (limited to 
+ lines) :
+\n
+\n
+\n
+\n
+s
+
+\nNessus was able to exploit the issue to retrieve the contents of 
+'
+'
+\n
+ using the following request
+ :
+\n
+\n
+-
+ Request #
+-
+\n
+
+\n
+\n
+\n
+nasl_level
+sc_version
+\n
+This produced the following truncated output (limited to 
+ lines) :
+\n
+\n
+\n
+\n
+^.+/([^/]+)$
+\1
+^.+\\([^\\]+)$
+\1
+\n
+Attached is a copy of the response
+\n
+type
+name
+value
+s
+
+\nNessus was able to exploit the issue using the following request
+ :\n\n
+-
+ Request #
+-
+\n
+
+\n
+\n
+\n
+\n\n
+This produced the following truncated output (limited to 
+ lines) :
+\n
+\n
+\n
+\n
+ftp_func.inc
+The FTP server on port 
+ allows random usernames.
+Nessus is currently configured to not log in with user accounts not specified in the scan policy.
+Cannot to TCP port 
+.
+Administrator
+
+The FTP server on port 
+ is not affected.

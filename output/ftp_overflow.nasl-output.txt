@@ -1,0 +1,868 @@
+.
+.
+Unknown CVSS access subvector (
+)!\n
+Unknown CVSS access complexity subvector (
+)!\n
+Unknown CVSS authentication subvector (
+)!\n
+Unknown CVSS confidentiality subvector (
+)!\n
+Unknown CVSS integrity subvector (
+)!\n
+Unknown CVSS availability subvector (
+)!\n
+0.0
+.
+
+ \t\n\r
+ \t\n\r
+\n
+cvss_vector
+cvss_base_score
+cvss_temporal_vector
+cvss_base_score
+cvss_temporal_score
+cvss_base_score
+cvss_vector
+cvss_temporal_score
+cvss_temporal_vector
+cvss_base_score
+risk_factor
+None
+cvss_base_score
+risk_factor
+Critical
+cvss_base_score
+risk_factor
+High
+cvss_base_score
+risk_factor
+Medium
+cvss_base_score
+risk_factor
+Low
+risk_factor
+None
+
+synopsis
+Synopsis :\n\n
+\n\n
+description
+Description :\n\n
+\n\n
+see_also
+See also :\n\n
+\n\n
+solution
+Solution :\n\n
+\n\n
+risk_factor
+Risk factor :\n\n
+cvss_base_score
+ / CVSS Base Score : 
+cvss_vector
+\n(
+)\n
+\n
+cvss_temporal_score
+cvss_temporal_vector
+CVSS Temporal Score : 
+\n
+(
+)\n
+\n
+exploit_available
+exploit_available
+Public Exploit Available : 
+\n
+...
+OSVDB
+CWE
+ 
+^2[0-9]+/[0-9]+/[0-9]+$
+plugin_modification_date
+code
+$1$ does not appear to be installed.
+code
+$1$ is installed and not affected.
+$1$ version $2$ is installed and not affected.
+$1$, version $2$, build $3$ is installed and not affected.
+code
+The version of $1$ could not be determined.
+code
+The build of $1$ could not be determined.
+The build of $1$, version $2$, could not be determined.
+code
+The install of $1$, with a version of $2$, is not granular enough to make a determination.
+The install of $1$ on port $2$, with a version of $3$, is not granular enough to make a determination.
+code
+Windows Server Core installs are not affected.
+code
+The host is not affected based on its version / service pack.
+code
+$1$ is installed and not affected.
+$1$ installed at $2$ is not affected.
+The $1$ version $2$ install under $3$ is not affected.
+code
+Failed to get the $1$ directory.
+code
+The specified patch $1$ has been installed.
+$2$ has the patch $1$ installed.
+$2$ $3$ has the patch $1$ installed.
+code
+$1$ does not appear to be listening on port $2$.
+$1$ does not appear to be listening on $3$ port $2$.
+code
+The $1$ install listening on port $2$ is not affected.
+The $1$ $3$ install listening on port $2$ is not affected.
+The $1$ $3$ install listening on $4$ port $2$ is not affected.
+code
+$1$ no longer appears to be installed.
+code
+$1$ was not detected on this host.
+$1$ was not detected on port $2$.
+code
+A WMI query did not find any $1$ on the remote host.
+code
+Did not receive a banner from the service listening on port $1$.
+code
+Error received from the service listening on port $1$.
+code
+Failed to connect to $1$ service listening on port $2$.
+code
+Failed to negotiate $1$ on port $2$.
+code
+Failed to open a socket on port $1$.
+Failed to open a $2$ socket on port $1$.
+code
+Failed to open the database '$1$'.
+$1$
+code
+Function $1$() failed.
+Function $1$() failed, returning $2$.
+code
+Function $1$() is not defined.
+code
+No $1$ credentials have been specified.
+code
+No $1$ files were found hosted on the web server listening on port $2$.
+code
+Unable to get the web server banner on port $1$.
+code
+The web server listening on port $1$ does not send a Server response header.
+code
+The web server on port $1$ is not $2$.
+code
+The web server on port $1$ is not affected.
+code
+The version of $1$ listening on port $2$ could not be determined.
+code
+$1$ was not detected on the web server listening on port $2$.
+code
+The version of $1$ listening at $2$ could not be determined.
+code
+The version of $1$ listening on port $2$ - $3$ - is non-numeric and, therefore, cannot be used to make a determination.
+code
+The $1$ install at $2$ is not affected.
+The $1$ install at $2$ is version $3$ and, therefore, is not affected.
+code
+The $3$ included in the $1$ install at $2$ is not affected.
+The $3$ included in the $1$ install at $2$ is version $4$ and, therefore, is not affected.
+code
+The $1$ install at $2$ does not appear to have the $3$.
+code
+No $1$ preferences have been specified.
+code
+Port $1$ is not open.
+$2$ port $1$ is not open.
+code
+The remote host does not have $1$ running.
+code
+The '$1$' KB item is not set.
+$1$
+code
+The host does not seem to have any $1$.
+code
+The remote host's OS is not $1$.
+The remote host's OS is $2$, not $1$.
+code
+The remote host's OS is $1$ release $2$.
+The remote host's OS is $1$ release $3$, not $2$.
+code
+The remote host is not $1$.
+code
+The $1$ version is not available (the remote host may not be $1$).
+code
+$1$ is not an affected device.
+$1$ is running firmware $2$ and is not affected.
+code
+The service listening on port $1$ did not respond.
+The service listening on port $1$ did not respond to $2$.
+The service listening on $3$ port $1$ did not respond to $2$.
+code
+The service listening on port $1$ did not respond as expected.
+The service listening on port $1$ did not respond as expected to $2$.
+The service listening on $3$ port $1$ did not respond as expected to $2$.
+code
+There are no unknown services.
+code
+The service listening on port $1$ has already been identified.
+code
+The service listening on port $1$ is not silent.
+code
+The service listening on port $1$ is silent.
+code
+This plugin only runs if 'Report paranoia' is set to 'Paranoid'.
+Report paranoia
+Paranoid
+code
+Security patches may have been backported on the service listening on port $1$.
+Security patches may have been backported on the $2$ listening on port $1$.
+code
+This plugin only runs if 'Thorough tests' is enabled.
+Thorough tests
+code
+This plugin only runs in IPv4.
+code
+Cannot check against localhost.
+code
+The control is not installed as the class id '$1$' does not exist on the remote host.
+$1$
+code
+The control is installed, but its kill bit is set.
+Version $1$ of the control is installed, but its kill bit is set.
+code
+PCI-DSS compliance checking is not enabled.
+code
+Failed to connect to the '$1$' share.
+$1$
+code
+Failed to connect to the '$1$' WMI namespace.
+$1$
+code
+Failed to connect to the remote registry.
+code
+Nessus is currently configured to not log in with user accounts not specified in the scan policy.
+code
+Local checks are not enabled.
+code
+Local checks for $1$ on the '$2$' architecture have not been implemented.
+$2$
+code
+The host's architecture is not $1$.
+The host's architecture is $2$, not $1$.
+code
+Failed to determine the host's architecture.
+code
+Failed to obtain the list of installed packages.
+Failed to obtain the list of installed $1$.
+code
+The $1$ package is not installed.
+code
+The $1$ package is installed and not affected.
+code
+The host is not managed by $1$.
+code
+Failed to get the file version of $1$.
+code
+The version, $1$, does not appear to be valid.
+code
+Failed to get the version of the $1$ service on port $2$.
+code
+audit() was not passed any arguments.
+code
+audit() was passed an unknown identifier: '$1$'.
+$1$
+code
+audit() was passed $1$ parameter(s) for identifier $2$, but there are no format strings that match.
+code
+Audit template $1$ does not contain an exit code.
+code
+Audit template $1$ was passed a NULL value.
+code
+Audit template $1$ was passed an array value: $2$.
+code
+unknown
+
+Unexpected nested array in AUDIT_INST_VER_NOT_VULN version list.
+, 
+and 
+ and 
+ is 
+ are 
+ version 
+ versions 
+[ 
+ => 
+, 
+ ]
+\$([0-9]+)\$
+\${\1}\$
+\$
+\$
+ 
+package is
+packages are
+Hole
+Warning
+Note
+global_settings/network_type
+LAN
+Internet
+global_settings/report_verbosity
+Normal
+Quiet
+Verbose
+global_settings/report_paranoia
+Avoid false alarms
+Normal
+Paranoid
+global_settings/debug_level
+global_settings/experimental_scripts
+no
+yes
+global_settings/thorough_tests
+no
+yes
+(
+): 
+\n
+\n
+DEBUG: 
+(
+): 
+\n
+\n
+ERR: 
+beginning_of_response2: missing parameter resp.
+^[ \t]+
+
+\n
+[...]\n
+www/
+/XSS
+www/
+/XSRF
+www/
+/SQLInjection
+text/plain
+-
+-
+ snip 
+-
+s
+
+\nNessus was able to execute the command "
+" using the
+\nfollowing request
+ :
+\n
+\n
+-
+ Request #
+-
+\n
+
+\n
+\n
+\n
+\n\n
+This produced the following truncated output (limited to 
+ lines) :
+\n
+\n
+\n
+\n
+s
+
+\nNessus was able to exploit the issue to retrieve the contents of 
+'
+'
+\n
+ using the following request
+ :
+\n
+\n
+-
+ Request #
+-
+\n
+
+\n
+\n
+\n
+nasl_level
+sc_version
+\n
+This produced the following truncated output (limited to 
+ lines) :
+\n
+\n
+\n
+\n
+^.+/([^/]+)$
+\1
+^.+\\([^\\]+)$
+\1
+\n
+Attached is a copy of the response
+\n
+type
+name
+value
+s
+
+\nNessus was able to exploit the issue using the following request
+ :\n\n
+-
+ Request #
+-
+\n
+
+\n
+\n
+\n
+\n\n
+This produced the following truncated output (limited to 
+ lines) :
+\n
+\n
+\n
+\n
+tcp
+: service is already known on port 
+:
+\n
+Known/
+/
+tcp
+Services/
+Services/
+/
+Services/unknown
+: register_service: port=
+, proto=
+\n
+tcp
+Known/
+/
+Known service on port 
+\n
+Unknown service on port 
+\n
+Services/Silent/
+tcp
+Known/
+/
+tcp
+Known/
+/
+Services/
+Services/
+/
+No '
+' service was detected
+", svc, "
+, including on TCP port 
+, including on 
+ port 
+.
+Port 
+ is not open.
+UDP port 
+ is not open.
+tcp
+tcp
+Services/
+Services/
+/
+Known/
+/
+/
+ was not detected
+mysql/version/
+mysql/version/
+get_kb_banner: missing argument port\n
+get_kb_banner: invalid port 
+\n
+get_kb_banner: missing argument type\n
+tcp
+FindService/
+/
+/
+\n
+tcp
+FindService/
+/
+/
+get_unknown_banner2: invalid port 
+\n
+tcp
+spontaneous
+get_http
+help
+FindService/
+/
+/
+unknown/banner/
+unknown/banner/
+/
+?
+BannerHex/
+spontaneous
+Banner/
+spontaneous
+Amap/
+/
+/FullBanner
+amap
+/
+spontaneous
+unknown/banner/
+unknown/banner/
+/
+tcp
+Services/
+Services/
+/
+/banner/
+/banner/
+/
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_
+
+hex2raw: odd string: 
+\n
+a
+a
+/banner/
+www
+web server
+proxy
+web proxy
+hylafax-ftp
+hylafax
+HylaFAX server
+agobot.fo
+Agobot.fo backdoor
+unknown_irc_bot
+IRC bot
+auth
+identd
+ server
+FTP
+An 
+a
+e
+i
+o
+An 
+A 
+ is running on this port
+: unknown arg type 
+ in function make_list\n
+
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+
+==
+=
+
+.Date: ([0-9]+)/([01][0-9])/([0-3][0-9]) ([0-2][0-9]):([0-6][0-9]):([0-6][0-9]) \$
+Services/unknown
+Services/unknown
+Services/three_digits
+
+^([0-9]+)\.?
+0
+array
+
+~|~
+,
+,
+~|~
+,
+,$
+
+,
+
+~|~
+,
+.
+.
+checks_read_timeout
+A KB key wasn't provided to get_kb_item_or_exit().
+The '
+' KB item is not set.
+"+kb+"
+get_global_kb_item
+get_global_kb_item() is not defined.
+A KB key wasn't provided to get_global_kb_item_or_exit().
+The '
+' global KB item is not set.
+"+kb+"
+A KB key wasn't provided to get_kb_list_or_exit().
+No '
+' KB items are set.
+"+kb+"
+ 
+
+asterisk
+-beta(\d+)
+-rc(\d+)
+-cert(\d+)
+ver_compare(): 'strict' cannot be set to TRUE when version mangling is used.
+strict
+.
+.
+ver_compare(): '
+' is not a well-known application.
+", app, "
+.
+.\1
+^[-\d]+(\.[-\d]+)*$
+ver_compare(): Invalid argument ver='
+' or fix='
+'.
+", ver, "
+", fix, "
+.
+.
+.
+ \t\n\r
+:= 
+get_key_and_value(): was not passed an argument.
+get_key_and_value(): was passed a zero-length string.
+^[
+]$
+key
+value
+parse_properties(): was not passed an argument.
+parse_properties(): was passed a zero-length string.
+^[!#]$
+key
+value
+The service on port 
+ is still alive.
+The service on port 
+ is still alive.
+An IPS may be in the way.
+tcp
+Ports/
+/
+*
+\n
+:
+\n
+
+ for blob 
+\n
+\0
+Z
+:
+B64:
+P:
+A KB key wasn't provided to get_kb_blob_list().
+A KB key wasn't provided to get_kb_blob_list_or_exit().
+No '
+' KB items are set.
+"+kb+"
+xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx
+xxxxxxxxxxxx4xxxyxxxxxxxxxxxxxxx
+x
+x
+y
+branch: This function takes one argument.\n
+branch: This function only works on lists and arrays.\n
+branch: This function requires at least one of the key or value parameters to be true.\n
+/tmp/branch/
+/
+/
+make_nested_array: odd number (
+) of arguments.
+int
+plugin_selection.family.
+plugin_selection.individual_plugin.
+disabled
+enabled
+mixed
+enabled
+<unknown>
+Failed.
+\n\s*
+
+ASSERT::
+: Passed a non-boolean value 
+.
+ASSERT::
+: 
+Wrong number of arguments passed to assert_eq.
+\n\s*
+ 
+\n\s*
+ 
+Expected `
+` but got `
+`.
+Wrong number of arguments passed to assert_ne.
+\n\s*
+ 
+Expected to not get `
+`.
+len(): Missing required arg 'object'.
+object
+len(): Missing required arg 'elements'.
+elements
+maxlen(): arg 'elements' is not iterable.
+elements
+maxlen(): arg 'same_type' set but elements not all of same type.
+same_type
+empty(): missing required arg 'object'
+object
+multiline_eregmatch(): missing required arg 'string'
+string
+multiline_eregmatch(): missing required arg 'pattern'
+pattern
+\r\n
+\n
+path_split(): missing required arg 'path'
+path
+^(.*[\/\\])+(.*(\.\w+)?)?$
+
+
+dirname(): missing required arg 'path'
+path
+a
+h
+o
+operating-system-unsupported
+true
+register_unsupported_product(): missing required arg 'product_name'
+product_name
+unknown
+register_unsupported_product(): missing required arg 'base_path'
+base_path
+
+x-
+NumUnsupportedProducts
+UnsupportedProducts/
+/product_name
+UnsupportedProducts/
+/cpe_prefix
+UnsupportedProducts/
+/cpe_class
+UnsupportedProducts/
+/cpe_base
+UnsupportedProducts/
+/version
+NumUnsupportedProducts
+
+array
+array
+\n  
+ 
+ : 
+\n  
+ 
+ : 
+\n
+QUIT\r\n
+ftp/banner/
+ftp/
+/broken
+ftp/
+/broken
+ftp/
+/broken
+\r\n
+-
+ 
+^150.*\(([0-9]*) .*\)
+\1
+USER 
+\r\n
+3
+2
+230
+PASS 
+\r\n
+2
+EPSV\r\n
+2
+^2.9 .*\(\|\|\|[0-9]+\|\)
+^2.9 .*\(\|\|\|([0-9]+)\|\)
+PASV\r\n
+2
+^227 .* \(?[0-9]+,[0-9]+,[0-9]+,[0-9]+,[0-9]+,[0-9]+\)?
+^227 .* \(?[0-9]+,[0-9]+,[0-9]+,[0-9]+,([0-9]+),([0-9]+)\)?
+Services/ftp
+Port 
+ is closed.
+ftp/
+/broken
+ftp/
+/backdoor
+FTP server is broken.
+Services/ftp
+ftp/
+/broken
+ftp/
+/backdoor
+AUTH TLS
+234
+socket_negotiate_ssl
+msftpd
+ncftpd
+fw1ftpd
+vxftpd
+The FTP server on port 
+ is 
+.
+ftp/overflow
+ftp/
+/overflow
+ftp/
+/overflow_method
+Connection failed to port 
+.
+No answer on port 
+.
+The service on port 
+ does not look like FTP.
+MS FTP is running on port 
+.
+USER ftp\r\n
+No answer on port 
+.
+Connection failed to port 
+.
+USER 
+\r\n
+USER
+ftp/login
+ftp/password
+USER 
+\r\n
+PASS 
+\r\n
+PASS
+PASS 
+\r\n
+No answer from port 
+.
+CWD
+LIST
+STOR
+RNTO
+MKD
+XMKD
+RMD
+XRMD
+APPE
+SIZE
+RNFR
+HELP
+
+ 
+\r\n

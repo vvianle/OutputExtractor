@@ -1,0 +1,2811 @@
+.
+.
+Unknown CVSS access subvector (
+)!\n
+Unknown CVSS access complexity subvector (
+)!\n
+Unknown CVSS authentication subvector (
+)!\n
+Unknown CVSS confidentiality subvector (
+)!\n
+Unknown CVSS integrity subvector (
+)!\n
+Unknown CVSS availability subvector (
+)!\n
+0.0
+.
+
+ \t\n\r
+ \t\n\r
+\n
+cvss_vector
+cvss_base_score
+cvss_temporal_vector
+cvss_base_score
+cvss_temporal_score
+cvss_base_score
+cvss_vector
+cvss_temporal_score
+cvss_temporal_vector
+cvss_base_score
+risk_factor
+None
+cvss_base_score
+risk_factor
+Critical
+cvss_base_score
+risk_factor
+High
+cvss_base_score
+risk_factor
+Medium
+cvss_base_score
+risk_factor
+Low
+risk_factor
+None
+
+synopsis
+Synopsis :\n\n
+\n\n
+description
+Description :\n\n
+\n\n
+see_also
+See also :\n\n
+\n\n
+solution
+Solution :\n\n
+\n\n
+risk_factor
+Risk factor :\n\n
+cvss_base_score
+ / CVSS Base Score : 
+cvss_vector
+\n(
+)\n
+\n
+cvss_temporal_score
+cvss_temporal_vector
+CVSS Temporal Score : 
+\n
+(
+)\n
+\n
+exploit_available
+exploit_available
+Public Exploit Available : 
+\n
+...
+OSVDB
+CWE
+ 
+^2[0-9]+/[0-9]+/[0-9]+$
+plugin_modification_date
+code
+$1$ does not appear to be installed.
+code
+$1$ is installed and not affected.
+$1$ version $2$ is installed and not affected.
+$1$, version $2$, build $3$ is installed and not affected.
+code
+The version of $1$ could not be determined.
+code
+The build of $1$ could not be determined.
+The build of $1$, version $2$, could not be determined.
+code
+The install of $1$, with a version of $2$, is not granular enough to make a determination.
+The install of $1$ on port $2$, with a version of $3$, is not granular enough to make a determination.
+code
+Windows Server Core installs are not affected.
+code
+The host is not affected based on its version / service pack.
+code
+$1$ is installed and not affected.
+$1$ installed at $2$ is not affected.
+The $1$ version $2$ install under $3$ is not affected.
+code
+Failed to get the $1$ directory.
+code
+The specified patch $1$ has been installed.
+$2$ has the patch $1$ installed.
+$2$ $3$ has the patch $1$ installed.
+code
+$1$ does not appear to be listening on port $2$.
+$1$ does not appear to be listening on $3$ port $2$.
+code
+The $1$ install listening on port $2$ is not affected.
+The $1$ $3$ install listening on port $2$ is not affected.
+The $1$ $3$ install listening on $4$ port $2$ is not affected.
+code
+$1$ no longer appears to be installed.
+code
+$1$ was not detected on this host.
+$1$ was not detected on port $2$.
+code
+A WMI query did not find any $1$ on the remote host.
+code
+Did not receive a banner from the service listening on port $1$.
+code
+Error received from the service listening on port $1$.
+code
+Failed to connect to $1$ service listening on port $2$.
+code
+Failed to negotiate $1$ on port $2$.
+code
+Failed to open a socket on port $1$.
+Failed to open a $2$ socket on port $1$.
+code
+Failed to open the database '$1$'.
+$1$
+code
+Function $1$() failed.
+Function $1$() failed, returning $2$.
+code
+Function $1$() is not defined.
+code
+No $1$ credentials have been specified.
+code
+No $1$ files were found hosted on the web server listening on port $2$.
+code
+Unable to get the web server banner on port $1$.
+code
+The web server listening on port $1$ does not send a Server response header.
+code
+The web server on port $1$ is not $2$.
+code
+The web server on port $1$ is not affected.
+code
+The version of $1$ listening on port $2$ could not be determined.
+code
+$1$ was not detected on the web server listening on port $2$.
+code
+The version of $1$ listening at $2$ could not be determined.
+code
+The version of $1$ listening on port $2$ - $3$ - is non-numeric and, therefore, cannot be used to make a determination.
+code
+The $1$ install at $2$ is not affected.
+The $1$ install at $2$ is version $3$ and, therefore, is not affected.
+code
+The $3$ included in the $1$ install at $2$ is not affected.
+The $3$ included in the $1$ install at $2$ is version $4$ and, therefore, is not affected.
+code
+The $1$ install at $2$ does not appear to have the $3$.
+code
+No $1$ preferences have been specified.
+code
+Port $1$ is not open.
+$2$ port $1$ is not open.
+code
+The remote host does not have $1$ running.
+code
+The '$1$' KB item is not set.
+$1$
+code
+The host does not seem to have any $1$.
+code
+The remote host's OS is not $1$.
+The remote host's OS is $2$, not $1$.
+code
+The remote host's OS is $1$ release $2$.
+The remote host's OS is $1$ release $3$, not $2$.
+code
+The remote host is not $1$.
+code
+The $1$ version is not available (the remote host may not be $1$).
+code
+$1$ is not an affected device.
+$1$ is running firmware $2$ and is not affected.
+code
+The service listening on port $1$ did not respond.
+The service listening on port $1$ did not respond to $2$.
+The service listening on $3$ port $1$ did not respond to $2$.
+code
+The service listening on port $1$ did not respond as expected.
+The service listening on port $1$ did not respond as expected to $2$.
+The service listening on $3$ port $1$ did not respond as expected to $2$.
+code
+There are no unknown services.
+code
+The service listening on port $1$ has already been identified.
+code
+The service listening on port $1$ is not silent.
+code
+The service listening on port $1$ is silent.
+code
+This plugin only runs if 'Report paranoia' is set to 'Paranoid'.
+Report paranoia
+Paranoid
+code
+Security patches may have been backported on the service listening on port $1$.
+Security patches may have been backported on the $2$ listening on port $1$.
+code
+This plugin only runs if 'Thorough tests' is enabled.
+Thorough tests
+code
+This plugin only runs in IPv4.
+code
+Cannot check against localhost.
+code
+The control is not installed as the class id '$1$' does not exist on the remote host.
+$1$
+code
+The control is installed, but its kill bit is set.
+Version $1$ of the control is installed, but its kill bit is set.
+code
+PCI-DSS compliance checking is not enabled.
+code
+Failed to connect to the '$1$' share.
+$1$
+code
+Failed to connect to the '$1$' WMI namespace.
+$1$
+code
+Failed to connect to the remote registry.
+code
+Nessus is currently configured to not log in with user accounts not specified in the scan policy.
+code
+Local checks are not enabled.
+code
+Local checks for $1$ on the '$2$' architecture have not been implemented.
+$2$
+code
+The host's architecture is not $1$.
+The host's architecture is $2$, not $1$.
+code
+Failed to determine the host's architecture.
+code
+Failed to obtain the list of installed packages.
+Failed to obtain the list of installed $1$.
+code
+The $1$ package is not installed.
+code
+The $1$ package is installed and not affected.
+code
+The host is not managed by $1$.
+code
+Failed to get the file version of $1$.
+code
+The version, $1$, does not appear to be valid.
+code
+Failed to get the version of the $1$ service on port $2$.
+code
+audit() was not passed any arguments.
+code
+audit() was passed an unknown identifier: '$1$'.
+$1$
+code
+audit() was passed $1$ parameter(s) for identifier $2$, but there are no format strings that match.
+code
+Audit template $1$ does not contain an exit code.
+code
+Audit template $1$ was passed a NULL value.
+code
+Audit template $1$ was passed an array value: $2$.
+code
+unknown
+
+Unexpected nested array in AUDIT_INST_VER_NOT_VULN version list.
+, 
+and 
+ and 
+ is 
+ are 
+ version 
+ versions 
+[ 
+ => 
+, 
+ ]
+\$([0-9]+)\$
+\${\1}\$
+\$
+\$
+ 
+package is
+packages are
+Hole
+Warning
+Note
+global_settings/network_type
+LAN
+Internet
+global_settings/report_verbosity
+Normal
+Quiet
+Verbose
+global_settings/report_paranoia
+Avoid false alarms
+Normal
+Paranoid
+global_settings/debug_level
+global_settings/experimental_scripts
+no
+yes
+global_settings/thorough_tests
+no
+yes
+(
+): 
+\n
+\n
+DEBUG: 
+(
+): 
+\n
+\n
+ERR: 
+beginning_of_response2: missing parameter resp.
+^[ \t]+
+
+\n
+[...]\n
+www/
+/XSS
+www/
+/XSRF
+www/
+/SQLInjection
+text/plain
+-
+-
+ snip 
+-
+s
+
+\nNessus was able to execute the command "
+" using the
+\nfollowing request
+ :
+\n
+\n
+-
+ Request #
+-
+\n
+
+\n
+\n
+\n
+\n\n
+This produced the following truncated output (limited to 
+ lines) :
+\n
+\n
+\n
+\n
+s
+
+\nNessus was able to exploit the issue to retrieve the contents of 
+'
+'
+\n
+ using the following request
+ :
+\n
+\n
+-
+ Request #
+-
+\n
+
+\n
+\n
+\n
+nasl_level
+sc_version
+\n
+This produced the following truncated output (limited to 
+ lines) :
+\n
+\n
+\n
+\n
+^.+/([^/]+)$
+\1
+^.+\\([^\\]+)$
+\1
+\n
+Attached is a copy of the response
+\n
+type
+name
+value
+s
+
+\nNessus was able to exploit the issue using the following request
+ :\n\n
+-
+ Request #
+-
+\n
+
+\n
+\n
+\n
+\n\n
+This produced the following truncated output (limited to 
+ lines) :
+\n
+\n
+\n
+\n
+tcp
+: service is already known on port 
+:
+\n
+Known/
+/
+tcp
+Services/
+Services/
+/
+Services/unknown
+: register_service: port=
+, proto=
+\n
+tcp
+Known/
+/
+Known service on port 
+\n
+Unknown service on port 
+\n
+Services/Silent/
+tcp
+Known/
+/
+tcp
+Known/
+/
+Services/
+Services/
+/
+No '
+' service was detected
+", svc, "
+, including on TCP port 
+, including on 
+ port 
+.
+Port 
+ is not open.
+UDP port 
+ is not open.
+tcp
+tcp
+Services/
+Services/
+/
+Known/
+/
+/
+ was not detected
+mysql/version/
+mysql/version/
+get_kb_banner: missing argument port\n
+get_kb_banner: invalid port 
+\n
+get_kb_banner: missing argument type\n
+tcp
+FindService/
+/
+/
+\n
+tcp
+FindService/
+/
+/
+get_unknown_banner2: invalid port 
+\n
+tcp
+spontaneous
+get_http
+help
+FindService/
+/
+/
+unknown/banner/
+unknown/banner/
+/
+?
+BannerHex/
+spontaneous
+Banner/
+spontaneous
+Amap/
+/
+/FullBanner
+amap
+/
+spontaneous
+unknown/banner/
+unknown/banner/
+/
+tcp
+Services/
+Services/
+/
+/banner/
+/banner/
+/
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_
+
+hex2raw: odd string: 
+\n
+a
+a
+/banner/
+www
+web server
+proxy
+web proxy
+hylafax-ftp
+hylafax
+HylaFAX server
+agobot.fo
+Agobot.fo backdoor
+unknown_irc_bot
+IRC bot
+auth
+identd
+ server
+FTP
+An 
+a
+e
+i
+o
+An 
+A 
+ is running on this port
+: unknown arg type 
+ in function make_list\n
+
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+
+==
+=
+
+.Date: ([0-9]+)/([01][0-9])/([0-3][0-9]) ([0-2][0-9]):([0-6][0-9]):([0-6][0-9]) \$
+Services/unknown
+Services/unknown
+Services/three_digits
+
+^([0-9]+)\.?
+0
+array
+
+~|~
+,
+,
+~|~
+,
+,$
+
+,
+
+~|~
+,
+.
+.
+checks_read_timeout
+A KB key wasn't provided to get_kb_item_or_exit().
+The '
+' KB item is not set.
+"+kb+"
+get_global_kb_item
+get_global_kb_item() is not defined.
+A KB key wasn't provided to get_global_kb_item_or_exit().
+The '
+' global KB item is not set.
+"+kb+"
+A KB key wasn't provided to get_kb_list_or_exit().
+No '
+' KB items are set.
+"+kb+"
+ 
+
+asterisk
+-beta(\d+)
+-rc(\d+)
+-cert(\d+)
+ver_compare(): 'strict' cannot be set to TRUE when version mangling is used.
+strict
+.
+.
+ver_compare(): '
+' is not a well-known application.
+", app, "
+.
+.\1
+^[-\d]+(\.[-\d]+)*$
+ver_compare(): Invalid argument ver='
+' or fix='
+'.
+", ver, "
+", fix, "
+.
+.
+.
+ \t\n\r
+:= 
+get_key_and_value(): was not passed an argument.
+get_key_and_value(): was passed a zero-length string.
+^[
+]$
+key
+value
+parse_properties(): was not passed an argument.
+parse_properties(): was passed a zero-length string.
+^[!#]$
+key
+value
+The service on port 
+ is still alive.
+The service on port 
+ is still alive.
+An IPS may be in the way.
+tcp
+Ports/
+/
+*
+\n
+:
+\n
+
+ for blob 
+\n
+\0
+Z
+:
+B64:
+P:
+A KB key wasn't provided to get_kb_blob_list().
+A KB key wasn't provided to get_kb_blob_list_or_exit().
+No '
+' KB items are set.
+"+kb+"
+xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx
+xxxxxxxxxxxx4xxxyxxxxxxxxxxxxxxx
+x
+x
+y
+branch: This function takes one argument.\n
+branch: This function only works on lists and arrays.\n
+branch: This function requires at least one of the key or value parameters to be true.\n
+/tmp/branch/
+/
+/
+make_nested_array: odd number (
+) of arguments.
+int
+plugin_selection.family.
+plugin_selection.individual_plugin.
+disabled
+enabled
+mixed
+enabled
+<unknown>
+Failed.
+\n\s*
+
+ASSERT::
+: Passed a non-boolean value 
+.
+ASSERT::
+: 
+Wrong number of arguments passed to assert_eq.
+\n\s*
+ 
+\n\s*
+ 
+Expected `
+` but got `
+`.
+Wrong number of arguments passed to assert_ne.
+\n\s*
+ 
+Expected to not get `
+`.
+len(): Missing required arg 'object'.
+object
+len(): Missing required arg 'elements'.
+elements
+maxlen(): arg 'elements' is not iterable.
+elements
+maxlen(): arg 'same_type' set but elements not all of same type.
+same_type
+empty(): missing required arg 'object'
+object
+multiline_eregmatch(): missing required arg 'string'
+string
+multiline_eregmatch(): missing required arg 'pattern'
+pattern
+\r\n
+\n
+path_split(): missing required arg 'path'
+path
+^(.*[\/\\])+(.*(\.\w+)?)?$
+
+
+dirname(): missing required arg 'path'
+path
+a
+h
+o
+operating-system-unsupported
+true
+register_unsupported_product(): missing required arg 'product_name'
+product_name
+unknown
+register_unsupported_product(): missing required arg 'base_path'
+base_path
+
+x-
+NumUnsupportedProducts
+UnsupportedProducts/
+/product_name
+UnsupportedProducts/
+/cpe_prefix
+UnsupportedProducts/
+/cpe_class
+UnsupportedProducts/
+/cpe_base
+UnsupportedProducts/
+/version
+NumUnsupportedProducts
+
+array
+array
+\n  
+ 
+ : 
+\n  
+ 
+ : 
+\n
+\0
+
+get_strings(): missing required arg 'buf
+
+id1
+id2
+id1
+id2
+cm
+flag
+mtime
+xfl
+os
+xlen
+xlen
+crc32
+isize
+pos
+isize
+pos
+isize
+=
+*
+*
+/*
+*
+=
+*
+/*
+=
+*
+*
+/*
+get_http_cookie_from_key: missing argument!\n
+=
+get_http_cookie_from_key: invalid key 
+get_http_cookie_from_key: inexistant cookie 
+name
+path
+value
+domain
+version
+expires
+comment
+secure
+httponly
+port
+name
+path
+=
+value
+domain
+version
+expires
+comment
+secure
+httponly
+port
+FormAuth
+value
+version
+expires
+comment
+secure
+domain
+Cookies/
+/
+/
+erase_http_cookie: either key or name must be set!\n
+/
+=
+erase_http_cookie: key (
+) and name (
+) cannot be both set! Ignoring name.\n
+set_http_cookie: either key or name must be set!\n
+/
+=
+set_http_cookie: key (
+) and name (
+) cannot be both set! Ignoring name.\n
+=
+=
+get_http_cookie: path does not start with slash: 
+\n
+/
+^(.*)/[^/]*
+\1
+=
+parse_setcookie_header: Set-Cookie2 is not fully supported\n
+Empty Set-Cookie header\n
+[^
+^ *(([^$ =,;]+)=([^;]*))((; *(Secure|HttpOnly|(Max-Age|version)=[0-9]+|(expires|comment|path|domain)=[^;=]+|(Port|Comment-URL)="[^"+"]))*)([,;] *(.*))?$
+Cannot parse cookie header: 
+; 
+; *path=([^;]+); 
+/
+=
+; *Max-Age=([0-9]+); 
+; *Secure; 
+; *HttpOnly; 
+; *version=([0-9]+); 
+; *expires=([^;]+); 
+; *Comment=([^;]+); 
+; *domain=([^;]+); 
+Generic
+Cookies/
+/value/
+Cookies/
+/value/
+Cookies/
+/version/
+Cookies/
+/version/
+Cookies/
+/expires/
+Cookies/
+/expires/
+Cookies/
+/comment/
+Cookies/
+/comment/
+Cookies/
+/secure/
+Cookies/
+/secure/
+Cookies/
+/httponly/
+Cookies/
+/httponly/
+Cookies/
+/domain/
+Cookies/
+/domain/
+Generic
+Cookies/
+/value/*
+Cookies/
+/value/
+Cookies/
+/version/
+Cookies/
+/expires/
+Cookies/
+/comment/
+Cookies/
+/secure/
+Cookies/
+/httponly/
+Cookies/
+/domain/
+/
+*/
+/
+
+=
+mk_cookie_header: unhandled version 
+ for cookie 
+
+; 
+=
+=
+; $Path=
+; $Domain=
+; $Port=
+1
+$Version="1"; 
+=
+=
+; path=
+; domain=
+; port=
+; port=
+; secure
+; HttpOnly
+\n
+Generic
+
+\0
+\x01
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat
+Sun
+
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+wday
+, 
+ 
+ 
+year
+ 
+hour
+hour
+:
+:
+ GMT
+http_mk_proxy_request: host or port should not be NULL for CONNECT request\n
+http_mk_proxy_request: scheme, host, method or item argument should not be NULL\n
+http_mk_proxy_request: invalid version: 
+\n
+$method
+$scheme
+$port
+$version
+$uri
+
+$uri
+:
+://
+:
+@
+:
+http_mk_proxy_request: item does not start with slash: 
+/
+ 
+ HTTP/1.0
+ 
+ HTTP/1.1
+$request
+Host
+global_settings/http_user_agent
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+User-Agent
+Proxy-Connection
+Close
+Connection
+Close
+Pragma
+no-cache
+Accept
+image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*
+Accept-Language
+en
+Accept-Charset
+iso-8859-1,utf-8;q=0.9,*;q=0.1
+Cookie
+$data
+Content-Length
+Content-Type
+http_mk_req: port or method argument should not be NULL
+http_mk_req: item argument should not be empty.
+/tmp/http/auth/
+Cookie:
+http/
+http_mk_req: invalid version: 
+\n
+www/
+/http11_hostname
+$method
+$uri
+$port
+$version
+$request
+ 
+$data
+ 
+ HTTP/1.0
+ 
+ HTTP/1.1
+Host
+global_settings/http_user_agent
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+User-Agent
+Connection
+Close
+Pragma
+no-cache
+Accept
+image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*
+Accept-Language
+en
+Accept-Charset
+iso-8859-1,utf-8;q=0.9,*;q=0.1
+Cookie
+$request
+$data
+Content-Length
+Content-Type
+GET
+HEAD
+TRACE
+DELETE
+http_mk_post_req: no data parameter\n
+POST
+http_mk_put_req: no data parameter\n
+PUT
+http_mk_buffer_from_req: req parameter is not set\n
+http_mk_buffer_from_req: no request line\n
+$request
+\r\n
+Host: 
+Host
+$port
+:
+\r\n
+: 
+\r\n
+Accept-Encoding: gzip\r\n
+\r\n
+$data
+$data
+
+\0
+hexnumber: negative argument 
+http_add_auth_to_req: req parameter cannot be NULL\n
+^WWW-Authenticate: *(Basic|Digest|NTLM)
+^Proxy-Authenticate: *(Basic|Digest|NTLM)
+http_add_auth_to_req: Neither WWW-Authenticate nor Proxy-Authenticate in headers\n
+\n
+\r\n
+\n
+\n
+http/login
+http/password
+No credentials!
+([^
+\n(WWW|Proxy)-Authenticate: *Basic( +realm="([^"]*)")?
+:
+Basic 
+Proxy-Authorization
+Authorization
+NTLM 
+NTLMSSP\x00
+\x01\x00\x00\x00
+\x07\x82\x08\x00
+\0\0\0\0\0\0\0\0
+\0\0\0\0\0\0\0\0
+Proxy-Authorization
+Authorization
+\n(WWW|Proxy)-Authenticate: *NTLM +([A-Za-z0-9/+=]+) *\n
+Unknown NTLM protocol: 
+Unknown NTLM type: 
+
+\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0
+NTLMSSP\0
+\x03\x00\x00\x00
+\x18\x00
+\x18\x00
+\0\0
+\x18\x00
+\x18\x00
+\0\0
+\x40\x00
+\0\0
+\0\0
+\0\0
+\0\0\0\0
+\0\0\0\0
+\x05\x82\x08\x00
+NTLM 
+Proxy-Authorization
+Authorization
+([^
+\n(WWW|Proxy)-Authenticate: *Digest (.*,)? *realm="([^"]*)"
+http_add_auth_to_req: Digest realm=
+$uri
+([^
+\n(WWW|Proxy)-Authenticate: *Digest .*, *nonce="([^"]+)"
+Cannot extract nonce\n
+http_add_auth_to_req: Digest nonce=
+\n(WWW|Proxy)-Authenticate: *Digest .*, *algorithm=([^,]+)
+MD5
+http_add_auth_to_req: Digest algo=
+:
+:
+auth
+auth-int Not handled yet\n
+$uri
+$method
+:
+.
+.
+=
+.
+:
+:
+:
+:
+:
+:
+:
+:
+:
+http_add_auth_to_req: unhandled qop=
+\n
+', username, '
+', realm, '
+', nonce, '
+', uri, '
+', cnonce, '
+', resp, '
+", realm="
+", nonce="
+", uri="
+", cnonce="
+", algorithm=
+, response="
+"
+', username, '
+', realm, '
+', nonce, '
+', uri, '
+', resp, '
+', cnonce, '
+", realm="
+", nonce="
+", uri="
+", algorithm=
+, response="
+", qop=
+, nc=
+, cnonce="
+"
+([^
+\n(WWW|Proxy)-Authenticate: *Digest .*, *opaque="([^"]*)"
+', opaque, '
+,opaque="
+"
+http_add_auth_to_req: Digest opaque=
+Proxy-Authorization
+Authorization
+Unsupported HTTP authentication method: 
+Port 
+ is closed.
+The web server on port 
+ is broken.
+www/real_banner/
+www/banner/
+Connection to TCP port 
+ failed.
+/
+The web server on port 
+ did not answer.
+Services/www
+Port 
+ is closed
+ is embedded.
+ is broken.
+The web server on port 
+ does not support PHP scripts.
+The web server on port 
+ does not support ASP scripts.
+The web server itself on port 
+ is prone to Cross Site Scripting.
+www/
+/read_timeout
+Services/www/
+/broken
+Services/www/
+/working
+Services/www/
+/declared_broken_by
+Services/www/
+/broken/reason
+Services/www/
+/broken
+Services/www/
+/working
+GET
+/
+The web server failed to respond.
+The web server took 
+ seconds to read /
+The server answered with a 503 code (overloaded).
+The server took 
+ seconds to send back a 403 code on /
+The server appears to speak HTTP/0.9 only.
+The web server returned a 400 code on port 5000.
+Services/www/
+/working
+http_is_broken(port: 
+): server is working
+a
+b
+c
+d
+e
+f
+ 
+Settings/disable_cgi_scanning
+/tmp/cgibin
+/cgi-bin
+/scripts
+
+
+www/
+/PHP
+(aolserver|apache|Embedthis-(Appweb|http)|Mbedthis-AppWeb|Hiawatha v|IceWarp|iis|lighttpd|pi3web|Resin|thttpd|zeus|LiteSpeed)
+www/hmap/
+/description
+www/
+/ASP
+(Baby Web Server|GoAhead-Webs|IIS|TembriaWebServer|UltiDev Cassini)
+www/hmap/
+/description
+
+https://
+:
+http://
+:
+:
+@
+/
+/
+^(https?)://(([^:/]+)(:[^:/]*)?@)?([^:/]+)(:[0-9]+)?([?/].*)?$
+scheme
+ssl
+ssl
+user
+password
+host
+port
+port
+page
+^mailto://([^/]+)$
+scheme
+mailto
+address
+
+//+
+/
+^/(\.\./)+
+/
+/\./
+/
+/([^/.][^/]*|\.[^./][^/]*)/\.\./
+/
+/([^/.][^/]*|\.[^./][^/]*)/\.\.$
+/
+?
+www/
+/no_apache
+www/
+/no_full_apache_banner
+www/
+/apache_banner
+^Server: +(IBM_HTTP_Server|Apache|(Oracle[0-9]+iAS/[0-9.]+ )?Oracle HTTP Server)
+www/
+/no_apache
+Apache/
+Apache
+www/
+/apache_banner
+www/
+/no_full_apache_banner
+/
+([Ss]quid/[0-9]+\.[^ \)]+)
+www/
+/server
+^Server:
+^Server:[ \t]*
+
+www/
+/server
+', pattern, '
+find_pattern: pattern "
+" does not start with proper code\n
+\n
+
+\0
+.
+\n
+\n
+\n
+\n
+
+\n
+^[ \t]+
+
+[...] 
+ [...]
+^[ \t]+
+
+ [...]
+
+<head>
+
+</head>
+
+\n
+[...]\n
+Must provide a filename parameter.
+Invalid characters in filename parameter.
+.
+\.
+(^|[^A-Za-z])([A-Za-z]:\\\\([^/:*?\"<>|\\\\]+\\\\)+)
+(^|[^A-Za-z])([A-Za-z]:/([^/:*?\"<>|\\\\]+/)+)
+(^|[^/]+)(/([^/<>: ]+/)+)
+Unable to parse path from response.
+\n  URL                 : 
+\n  Path Disclosed      : 
+\n  Response Snippet    : 
+\n
+-
+ snip 
+-
+\n
+\n
+-
+ snip 
+-
+\n
+
+.
+http_open_sock_err: connection to TCP port 
+ succeeded on 2nd attempt.
+http_open_sock_err: connection to TCP port 
+ failed - errno=
+connecting to server
+www/
+/unresponsive/time
+www/
+/unresponsive/nb
+http_set_error: recursive call aborted!\n
+http_set_error: port or socket argument missing.\n
+http_set_error: get_sock_name(
+)=NULL\n
+http_set_error: port=
+ errno=
+ (
+), op=
+\n
+www/
+/read_timeout
+http_set_error: increasing network timeout to 
+ s after ETIMEDOUT\n
+www/
+/read_timeout
+www/
+/unresponsive/time
+www/
+/unresponsive/nb
+www/
+/unresponsive/nb
+www/
+/unresponsive/time
+www/
+/unresponsive/nb
+The web server failed to respond at least 
+ times for 
+ s.
+www/
+/unresponsive/time
+: errno=
+ (
+)
+no error
+operation timed out
+connection reset by peer
+host unreachable
+unknown error
+SSL error
+operation in progress
+connection refused
+no buffer space available
+error #
+Host/OS
+^Set-Cookie2?:
+\r\n
+\n
+http_recv_headers3: cannot read HTTP headers\n
+reading HTTP headers
+getpid
+getpid
+^Connection: *Close
+getpid
+getpid
+www/
+/keepalive
+yes
+www/
+/keepalive
+no
+/
+Pragma
+no-cache
+Connection
+Keep-Alive
+Host
+Cannot connect to TCP port 
+.
+Cannot read HTTP headers on port 
+.
+yes
+www/
+/keepalive
+^Connection: *Keep-Alive
+www/
+/keepalive
+yes
+www/
+/keepalive
+no
+
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_.!~*'()-]
+%
+?
+
+#
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_.!~*'()-/
+^([/a-zA-Z0-9_.!~*'()&+=\[\]-]|(%[0-9a-fA-F]{2}))*$
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_.!~*'()-[]/&+=
+?
+fix_rel_location: 
+ -> 
+\n
+_http_send_recv_once(port: 
+): http_open_socket_ka failed\n
+Can't connect to web server on port 
+.
+_http_send_recv_once: buf and req parameters cannot both be NULL\n
+Invalid parameters for _http_send_recv_once(port=
+).
+Connection
+Keep-Alive
+Connection
+Close
+$method
+HEAD
+_http_send_recv_once: buf and req parameters cannot both be set. req ignored.\n
+HEAD *
+_http_send_recv_once(port: 
+): cannot read status line - errno=
+\n
+reading the HTTP status line
+_http_send_recv_once(port: 
+): send failed\n
+sending the request
+_http_send_recv_once(port: 
+): http_reopen_socket failed\n
+Can't connect to web server on port 
+.
+_http_send_recv_once: socket to port 
+ reopen\n
+_http_send_recv_once(port: 
+): cannot read status line - errno=
+\n
+reading the status line
+_http_send_recv_once(port: 
+): send failed\n
+sending the request
+Can't read line from web server on port 
+.
+_http_send_recv_once(port: 
+): cannot read headers\n
+Can't read HTTP headers from web server on port 
+.
+Broken server sent an invalid code : 
+HTTP/1.0 400 Bad Request (broken server)\r\n
+_http_send_recv_once(port=
+): Cannot read status line after 100 Continue\n
+reading the status line
+_http_send_recv_once(port=
+): Cannot read HTTP headers after 100 Continue\n
+www/no403header/
+^HTTP/(1\.[01]) +([1-3][0-9][0-9]) 
+HTTP/\1 403 
+^Content-Type:
+^Content-Type:[ \t]*
+_http_send_recv_once: 
+$request
+ could not download HTTP body (port=
+)\n
+www/no403body/
+^HTTP/(1\.[01]) +([1-3][0-9][0-9]) 
+HTTP/\1 403 
+http_send_recv3: empty item\n
+http_send_recv3(port: 
+) : http_mk_req failed\n
+Host
+http_send_recv3(port: 
+, host: 
+, transport: 
+, method: 
+, item: 
+, data=
+, version: 
+, follow_redirect: 
+): http_send_recv_req failed\n
+http_send_recv_req(port: 
+): http_keepalive_enabled failed\n
+http_send_recv_req(port: 
+): missing req parameter\n
+Opportunistic Basic authentication on URL 
+$uri
+\n
+Connection
+Keep-Alive
+http_send_recv_req(port: 
+): _http_send_recv_once failed - method=
+$method
+ item=
+$uri
+ port=
+$port
+ version=
+$version
+\n
+^HTTP/1\\.[01] +30[1237] 
+^Location:
+^HTTP/1\\.[01] +30[12] 
+GET
+$method
+$data
+Content-Length
+Content-Type
+$uri
+^Location:[ \t]*([^ \t].*)
+Invalid Location field: 
+
+ HTTP/1.1
+$version
+
+$version
+ HTTP/1.0
+Redirection to relative URI is not RFC-compliant. Trying to fix it: 
+Switching from POST to GET to follow non RFC compliant redirection\n
+$method
+GET
+$data
+Content-Length
+Content-Type
+^(.*/)[^/]*$
+$uri
+Cannot extract base directory from original URI: 
+$uri
+$uri
+$method
+ 
+Cookie
+$uri
+Location=
+\n
+https?://(([^/]+)@)?([^/:]+)?(:[0-9]+)?(/.*)
+w=
+\n
+Cannot parse Location: 
+Host
+Host
+$method
+ 
+Cookie
+:
+
+$method
+ 
+Cookie
+$request
+newreqline=
+\n
+http_send_recv_req(port: 
+): _http_send_recv_once failed - method=
+$method
+ item=
+$uri
+ port=
+$port
+ version=
+$version
+\n
+v=
+\n
+^HTTP/1\\.[01] +40[17] 
+http_send_recv_req(port: 
+): http_add_auth_to_req failed\n
+http_send_recv_req(port: 
+): _http_send_recv_once failed\n
+^(WWW|Proxy)-Authenticate: NTLM
+http_send_recv_req(port: 
+): http_add_auth_to_req failed\n
+http_send_recv_req(port: 
+): _http_send_recv_once failed\n
+Basic *
+Authorization
+$uri
+http_send_recv_buf(port: 
+): missing data parameter\n
+\r\n\r\n
+^Connection *:
+Keep-Alive
+Close
+http_send_recv_buf(port: 
+): http_keepalive_enabled failed\n
+Connection: Keep-Alive\r\n
+Connection: Close\r\n
+\r\n
+http_send_recv_buf(port: 
+): _http_send_recv_once failed\n
+^HTTP/1\\.[01] +40[17] 
+http_send_recv_buf(port: 
+): http_add_auth_to_req failed\n
+^Authorization *:
+^Proxy-Authorization *:
+Authorization
+Authorization: 
+\r\n
+Authorization
+Proxy-Authorization: 
+\r\n
+\r\n
+http_send_recv_buf(port: 
+): _http_send_recv_once failed\n
+http_set_max_req_sz: invalid (or missing) argument: 
+(^|\r\n)Content-length:[ \t]*([0-9]+)
+
+http_recv_body: read stopped after 
+KB\n
+http_recv_body: bogus or no Content-length field, and no \
+ parameter set! Defaulting to 
+\n
+http_recv_body: min=
+; max=
+\n
+http_recv_body: read stopped after 
+KB\n
+^[\r\n]+$
+^HTTP/.* [0-9]*
+\r\n
+^[\r\n]+$
+^HTTP/.* [0-9]+ 
+/
+abcdefghijklmnopqrstuvwxyz
+Host
+^HTTP/1\.[01] +50[234]
+http_set_read_timeout: invalid timeout 
+ - ignored
+
+GET
+request failed: GET 
+http_check_authentication extracted pattern: 
+post-authentication test failed
+.\nThe web server answered :\n\n
+\n
+post-authentication test failed
+OK
+
+GET
+Broken connection on port 
+ after GET 
+request failed: GET 
+Referer
+POST
+Content-Type
+application/x-www-form-urlencoded
+POST
+GET
+?
+Broken connection on port 
+ after 
+ 
+request failed: 
+ 
+Permission denied: code=
+Permission denied or other HTTP error on 
+ request
+
+OK
+FormAuth
+/tmp/http_login/
+/lock
+-
+http_login_take_lock: old lock (
+ s ago) deleted (port=
+)
+http_login_take_lock: lock taken 
+ s ago
+-
+http_login_take_lock: lock stolen
+/tmp/http_login/
+/lock
+www/
+/
+www/
+/check_page
+www/
+/check_regex
+www/
+/regex_invert
+www/
+/regex_headers
+www/
+/regex_icase
+www/
+/login_follow_30x
+OK
+www/
+/login_delay
+www/
+/login_time
+Will not try to re-authenticate on port 
+ before 
+ seconds\n
+
+FormAuth
+www/
+/login_page
+www/
+/login_form
+www/
+/login_fields
+www/
+/login_meth
+www/
+/
+/auth_OK
+Successful authentication on port 
+www/
+/
+/auth_KO
+Web authentication failed on port 
+: 
+www/
+/login_time
+Settings/disable_cgi_scanning
+Services/www/
+/broken
+www/no404/
+^([A-Z_][A-Z0-9_-]*)[ \t]*:[ \t]*(.*)$
+parse_http_headers: cannot parse HTTP header -> 
+parse_http_headers: repeated HTTP header 
+\n
+,
+$status
+^HTTP/[01]\\.[01]+ +([0-9]+) 
+$code
+parse_http_headers: cannot parse status line -> 
+$errors
+www/no404/
+.php
+.asp
+
+^[^/]
+/
+/tmp/404/
+?
+GET
+/tmp/404/
+\nNessus was able to exploit the issue using the following URL :\n\n  
+\r\n
+ST:
+RE:
+\n\nIt produced the following response :\n\n
+\n
+www/
+/XSS
+/tmp/XSS/
+www/
+/SQLInjection
+GET
+; for 16-bit app support
+; for 16-bit app support
+Settings/disable_cgi_scanning
+/
+
+
+www/no404/
+GET
+^(.*)/([^/]*)$
+\1/is_cgi_installed3_\2
+GET
+www/
+/installed_cgi
+www/
+/get_cgi
+\r\n
+GET
+\r\nLocation: *([^ \t\r\n]+)[ \t]*[\r\n]
+\r\n
+Cache/
+/URL_
+\r\n\r\n
+^Set-Cookie2?:
+GET
+\r\n
+Cache/
+/URL_
+Settings/disable_cgi_scanning
+CGI scanning is disabled
+GET
+ + command + 
+" + command + "
+\n
+www/
+/XSS
+www/
+/SQLInjection
+/windows/win.ini
+/winnt/win.ini
+/etc/passwd
+/windows/win.ini
+/winnt/win.ini
+/etc/passwd
+/etc/passwd
+root:.*0:[01]:
+/winnt/win.ini
+^(\\[[A-Za-z]+\\]|^; for 16-bit app support|\\[MCI Extensions.BAK\\])
+/windows/win.ini
+^(\\[[A-Za-z]+\\]|^; for 16-bit app support|\\[MCI Extensions.BAK\\])
+../
+../
+GET
+Invalid value supplied for the separator
+url
+contents
+file
+\r\n
+www/
+/
+/request/
+www/
+/
+/response/
+state
+operator
+count
+
+byte_order
+keywords
+keywords
+kw
+keywords_pos
+keyword_new
+count_keywords
+count_keywords
+result
+count_keywords_pos
+operator
+format_pos
+state
+Illegal operator in pack/unpack: '*' followed by a number.
+*
+count
+format_pos
+Illegal operator in pack/unpack: a number followed by '*'.
+*
+count
+*
+format_pos
+Illegal operator in pack/unpack: a number followed by '#'.
+#
+Illegal operator in pack: '#' is only permitted in unpack().
+#
+count
+#
+format_pos
+Illegal operator in pack/unpack: 'x', 'X', and '@' make no sense when followed by a keyword.
+x
+X
+@
+Illegal operator in pack/unpack: ']' and '}' make no sense when followed by a keyword.
+]
+}
+pack() used a keyword lookup when no keywords were provided.
+count_keywords
+keywords
+keyword_new
+_pos
+
+format_pos
+state
+Illegal operator in pack/unpack: '<' and '>' can only modify i, I, l, L, s, S, t, and T.
+<
+>
+byte_order
+format_pos
+Illegal operator in pack/unpack: '<' and '>' can only modify i, I, l, L, s, S, t, and T.
+<
+>
+byte_order
+format_pos
+Illegal operator in pack/unpack: '!' (native endian) not supported.
+!
+count
+count
+dynamic_count
+count
+count
+state
+count_keywords
+keywords
+state
+_pos
+_pos
+state
+format_pos
+_pos
+format_pos
+unpack() tried to add '
+operator
+' to an array without a keyword argument.
+" + state["operator"] + "
+keywords
+keyword_new
+types
+types_pos
+list
+keywords
+keywords_pos
+types
+types_pos
+array
+keywords
+keywords_pos
+keywords
+keywords_pos
+Illegal operation in unpack(): Attempted to close array with ']'.
+]
+keywords
+keywords_pos
+Illegal operation in unpack(): Attempted to close list with '}'.
+}
+types
+types_pos
+keywords
+keywords_pos
+keywords
+keywords_pos
+Illegal operation in unpack(): unmatched '
+operator
+'.
+" + state["operator"] + "
+
+Illegal operator in unpack(): '@*' is an invalid combination.
+@*
+data_pos
+count
+count
+count
+*
+data_pos
+data_pos
+data_pos
+data_pos
+byte_order
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+byte_order
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+Illegal operator in unpack() - 64-bit values are not supported.
+Illegal operator in unpack() - 64-bit values are not supported.
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+dynamic_count
+count_keywords
+Illegal operator in unpack() - UTF-8 is not supported.
+Illegal operator in unpack() - BER integers are not supported.
+Illegal operator in unpack() - floating point is not supported.
+Illegal operator in unpack() - base64 and MIME encoding not implemented.
+Illegal operator in unpack() - pointers not implemented.
+Illegal operator in unpack() - '
+operator
+'.
+" + state["operator"] + "
+\0
+\0
+
+count
+
+count
+state
+count
+count
+*
+keywords
+args_pos
+result
+result
+args_pos
+result
+byte_order
+args_pos
+result
+args_pos
+result
+args_pos
+result
+result
+
+args_pos
+result
+byte_order
+args_pos
+result
+args_pos
+result
+args_pos
+Illegal operator in pack() - 64-bit values are not supported.
+result
+result
+result
+\0
+result
+ 
+result
+result
+\0
+result
+\0
+
+0
+0
+result
+
+0
+0
+result
+result
+count
+\0
+result
+result
+result
+count
+Illegal operator in pack(): '@*' is an invalid combination
+@*
+result
+result
+count
+result
+count
+result
+\0
+Illegal operator in pack() - UTF-8 is not supported.
+Illegal operator in pack() - BER integers are not supported.
+Illegal operator in pack() - floating point is not supported.
+Illegal operator in pack() - base64 and MIME encoding not implemented.
+Illegal operator in pack() - pointers not implemented.
+Illegal operator in pack() - '
+operator
+'.
+" + state["operator"] + "
+args_pos
+state
+data_pos
+dynamic_count
+format_pos
+function
+unpack
+keywords_pos
+types_pos
+result
+types
+list
+keywords
+keywords
+result
+keywords
+state
+format_pos
+format_pos
+unpack() reached an illegal state.
+result
+result
+args_pos
+format_pos
+function
+pack
+result
+
+kw
+pack was not implicitly nor explicitly given a format.
+args_pos
+state
+format_pos
+format_pos
+kw
+result
+!
+#
+$
+%
+&
+'
+(
+)
+*
++
+,
+-
+.
+/
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+:
+;
+<
+=
+>
+?
+@
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+[
+\
+]
+^
+_
+`
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+{
+|
+}
+~
+
+
+data
+int
+string
+uint
+undef
+array
+list
+  
+uint(
+)
+"
+"
+\0
+\\0
+\
+, 
+
+\\
+\\\\
+\n
+\\n
+\r
+\\r
+\t
+\\t
+
+\
+x
+'
+'
+NULL
+list
+
+make_nested_
+(
+)
+,
+\n
+, 
+)
+\n
+<unknown>
+keywords
+args_pos
+state
+state
+format_pos
+result
+format_pos
+result
+%
+state
+vsprintf used a keyword lookup when no keywords were provided.
+keywords
+keywords
+
+format_pos
+state
+result
+%
+format_pos
+state
+state
+state
+state
+state
+format_pos
+keywords
+keywords
+format_pos
+state
+leading_plus
+format_pos
+leading_space
+format_pos
+alternate_form
+format_pos
+left_justify
+format_pos
+state
+format_pos
+state
+state
+state
+state
+width
+width
+format_pos
+state
+format_pos
+state
+state
+precision
+precision
+format_pos
+state
+state
+type
+state
+format_pos
+
+0b
+leading_plus
+width
+precision
+leading_plus
+leading_space
+left_justify
+
+0
+leading_plus
+width
+precision
+leading_plus
+leading_space
+left_justify
+precision
+width
+leading_plus
+leading_space
+left_justify
+precision
+
+0x
+leading_plus
+width
+leading_plus
+leading_space
+left_justify
+precision
+left_justify
+width
+ 
+width
+ 
+left_justify
+width
+ 
+width
+ 
+
+ 
+width
+ 
+ : 
+\n
+result
+result
+result
+result
+result
+result
+result
+result
+args_pos
+state
+precision
+width
+pad_with_zero
+leading_plus
+leading_space
+alternate_form
+left_justify
+keywords
+keywords
+kw
+format_pos
+args_pos
+kw
+vsprintf was not implicitly nor explicitly given a format.
+args_pos
+state
+format_pos
+vsprintf ended up in an invalid state: 
+state
+.
+kw
+result
+data
+string
+
+
+
+
+
+
+
+0
+0
+0
+A
+a
+0
+a
+
+
+
+
+1
+
+
+
+
+0
+1
+7
+7
+f
+f
+
+..
+-
+0
+0
+0
++
+ 
+
+
+ 
+
+
+ 
+mask_string(): missing required arg 'string'
+string
+mask_string(): arg mask_length must be nonnegative
+*
+/display_version
+- 
+Path
+/priority
+installed_sw/
+;
+Source
+unknown
+/version
+Version
+%s(): Unknown or upstream error occurred.
+%s(): missing required argument '%s'.
+%s
+%s(): '%s' arg must be type '%s'.
+%s
+%s
+%s(): '%s' variable is unexpectedly NULL.
+%s
+%s(): Failure parsing variable '%s'.
+%s
+%s(): The function '%s' is not defined. Try including '%s'.
+%s
+%s
+app_name
+*/
+/*
+/
+port
+register_install
+app_name
+path
+port
+port
+int
+extra
+array
+extra_no_report
+array
+
+/
+www/
+/webapp_installed
+
+URL
+make_app_kb_key
+app_name
+port
+int
+/
+make_install_kb_key
+app_kb_key
+path
+/
+add_install_to_kb
+install_kb_key
+version
+priority
+display_version
+string
+extra
+array
+extra_no_report
+array
+add_extra_to_kb
+install_kb_key
+extra
+extra
+array
+extra['
+']
+extra['
+']
+string/list/int
+array
+/
+add_install_to_report
+app_name
+path
+version
+extra
+array
+
+process_extra
+extra
+extra
+array
+extra['
+']
+extra['
+']
+string/list
+add_string_data_to_report
+report
+path
+version
+field_length
+extra
+array
+field_length
+int
+s : %s
+\n  %-
+extra['
+']
+string
+\n
+add_list_data_to_report
+report
+extra
+extra
+array
+extra['
+']
+list
+\n  
+ :
+\n    
+\n
+report_installs
+port
+int
+extra
+string
+
+\n--- 
+ ---\n
+\n
+\n
+add_header_to_report
+app_name
+\nNessus detected 
+ installs of 
+:\n
+get_installs
+app_name
+port
+int
+get_single_install
+app_name
+port
+int
+get_single_install() should only be called once per app to avoid excessive forking.
+port
+path
+find_installs_by_key
+app_kb_key
+/*
+get_install_data_from_keys
+install_kb_keys
+install_kb_keys
+list
+/*
+path
+/
+get_path_from_kb_key
+install_kb_key
+(?:\d+/)?.+/(.*)
+install_kb_key
+installed_sw/([0-9]+)/
+/
+
+get_install_count
+app_name
+IF_base64
+str
+=
+$
+/
+&
+IF_base64
+str
+$
+=
+&
+/
+return_error(): missing required argument 'error_template'.
+error_template
+return_error(): missing required argument 'args'.
+args
+return_error(): An invalid error template was passed.
+return_error(): The number of args passed does not match the error template for 
+error code: 
+. (Expected 
+, received 
+)
+
+https://
+:
+http://
+:
+:
+@
+/
+/
+Nessus was able to verify the issue using the following URL
+add_install() missing required argument 'appname'.
+appname
+add_install() missing required argument 'dir'.
+dir
+add_install() missing required argument 'port'.
+port
+
+/
+www/
+/
+ under 
+www/
+get_install_report() missing required argument 'display_name'.
+display_name
+get_install_report() missing required argument 'port'.
+port
+/
+
+\n  Version : 
+\n
+/
+  URL     : 
+\n
+\nThe following instance
+ of 
+ was
+s of 
+ were
+ detected on the remote host :\n
+get_vuln_report() missing required argument 'items'.
+items
+get_vuln_report() missing required argument 'port'.
+port
+s
+\n
+ :\n
+\n  
+\n
+\n
+\n
+get_install_from_kb() missing required argument 'appname'.
+appname
+get_install_from_kb() missing required argument 'port'.
+port
+No installs of 
+ on port 
+ were found.
+Could not retrieve installs of 
+ on port 
+.
+\1
+path
+^(/.*)/$
+/
+
+dir
+ver
+get_dirs_from_kb() missing required argument 'appname'.
+appname
+get_dirs_from_kb() missing required argument 'port'.
+port
+No installs of 
+ on port 
+ were found.
+Could not retrieve installs of 
+ on port 
+.
+\1
+path
+^(/.*)/$
+/
+
+GET
+
+get_php_from_kb() missing required argument 'port'.
+port
+www/php/
+/version
+The 'www/php/
+/version' KB item is missing.
+www/php/"+port+"/version
+(.+) under (.+)$
+, $
+
+ver
+src
+GET
+www/
+/webapp_ext/
+ under 
+phpMyAdmin
+phpMyAdmin
+^3(\.\d+)?$
+^4(\.\d+)?$
+The version of phpMyAdmin located at 
+ (
+) is not granular enough.
+4.1.7
+-beta(\d+)
+-rc(\d+)
+^3\.3\.1-(rc|beta)\d+
+^3\.
+3.3.1
+^4\.
+www/
+/XSS
+\n  URL               : 
+\n  Installed version : 
+\n  Fixed version     : 
+\n
+phpMyAdmin

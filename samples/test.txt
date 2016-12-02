@@ -1,0 +1,15 @@
+"say hello' to" + name + "I'm coming"
+
+'say hello" to' + name + 'I"m coming'
+
+"mary's coat" + "carry's coat"
+
+"mary's coat carry's coat"
+
+'s is a good guy' + 's is nice'
+
+"I've got to go, they're running"
+
+print "hello '+' me"
+
+print 'hello "+" me'

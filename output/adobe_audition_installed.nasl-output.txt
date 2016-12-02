@@ -1,0 +1,2025 @@
+compat.inc
+code
+$1$ does not appear to be installed.
+code
+$1$ is installed and not affected.
+$1$ version $2$ is installed and not affected.
+$1$, version $2$, build $3$ is installed and not affected.
+code
+The version of $1$ could not be determined.
+code
+The build of $1$ could not be determined.
+The build of $1$, version $2$, could not be determined.
+code
+The install of $1$, with a version of $2$, is not granular enough to make a determination.
+The install of $1$ on port $2$, with a version of $3$, is not granular enough to make a determination.
+code
+Windows Server Core installs are not affected.
+code
+The host is not affected based on its version / service pack.
+code
+$1$ is installed and not affected.
+$1$ installed at $2$ is not affected.
+The $1$ version $2$ install under $3$ is not affected.
+code
+Failed to get the $1$ directory.
+code
+The specified patch $1$ has been installed.
+$2$ has the patch $1$ installed.
+$2$ $3$ has the patch $1$ installed.
+code
+$1$ does not appear to be listening on port $2$.
+$1$ does not appear to be listening on $3$ port $2$.
+code
+The $1$ install listening on port $2$ is not affected.
+The $1$ $3$ install listening on port $2$ is not affected.
+The $1$ $3$ install listening on $4$ port $2$ is not affected.
+code
+$1$ no longer appears to be installed.
+code
+$1$ was not detected on this host.
+$1$ was not detected on port $2$.
+code
+A WMI query did not find any $1$ on the remote host.
+code
+Did not receive a banner from the service listening on port $1$.
+code
+Error received from the service listening on port $1$.
+code
+Failed to connect to $1$ service listening on port $2$.
+code
+Failed to negotiate $1$ on port $2$.
+code
+Failed to open a socket on port $1$.
+Failed to open a $2$ socket on port $1$.
+code
+Failed to open the database '$1$'.
+$1$
+code
+Function $1$() failed.
+Function $1$() failed, returning $2$.
+code
+Function $1$() is not defined.
+code
+No $1$ credentials have been specified.
+code
+No $1$ files were found hosted on the web server listening on port $2$.
+code
+Unable to get the web server banner on port $1$.
+code
+The web server listening on port $1$ does not send a Server response header.
+code
+The web server on port $1$ is not $2$.
+code
+The web server on port $1$ is not affected.
+code
+The version of $1$ listening on port $2$ could not be determined.
+code
+$1$ was not detected on the web server listening on port $2$.
+code
+The version of $1$ listening at $2$ could not be determined.
+code
+The version of $1$ listening on port $2$ - $3$ - is non-numeric and, therefore, cannot be used to make a determination.
+code
+The $1$ install at $2$ is not affected.
+The $1$ install at $2$ is version $3$ and, therefore, is not affected.
+code
+The $3$ included in the $1$ install at $2$ is not affected.
+The $3$ included in the $1$ install at $2$ is version $4$ and, therefore, is not affected.
+code
+The $1$ install at $2$ does not appear to have the $3$.
+code
+No $1$ preferences have been specified.
+code
+Port $1$ is not open.
+$2$ port $1$ is not open.
+code
+The remote host does not have $1$ running.
+code
+The '$1$' KB item is not set.
+$1$
+code
+The host does not seem to have any $1$.
+code
+The remote host's OS is not $1$.
+The remote host's OS is $2$, not $1$.
+code
+The remote host's OS is $1$ release $2$.
+The remote host's OS is $1$ release $3$, not $2$.
+code
+The remote host is not $1$.
+code
+The $1$ version is not available (the remote host may not be $1$).
+code
+$1$ is not an affected device.
+$1$ is running firmware $2$ and is not affected.
+code
+The service listening on port $1$ did not respond.
+The service listening on port $1$ did not respond to $2$.
+The service listening on $3$ port $1$ did not respond to $2$.
+code
+The service listening on port $1$ did not respond as expected.
+The service listening on port $1$ did not respond as expected to $2$.
+The service listening on $3$ port $1$ did not respond as expected to $2$.
+code
+There are no unknown services.
+code
+The service listening on port $1$ has already been identified.
+code
+The service listening on port $1$ is not silent.
+code
+The service listening on port $1$ is silent.
+code
+This plugin only runs if 'Report paranoia' is set to 'Paranoid'.
+Report paranoia
+Paranoid
+code
+Security patches may have been backported on the service listening on port $1$.
+Security patches may have been backported on the $2$ listening on port $1$.
+code
+This plugin only runs if 'Thorough tests' is enabled.
+Thorough tests
+code
+This plugin only runs in IPv4.
+code
+Cannot check against localhost.
+code
+The control is not installed as the class id '$1$' does not exist on the remote host.
+$1$
+code
+The control is installed, but its kill bit is set.
+Version $1$ of the control is installed, but its kill bit is set.
+code
+PCI-DSS compliance checking is not enabled.
+code
+Failed to connect to the '$1$' share.
+$1$
+code
+Failed to connect to the '$1$' WMI namespace.
+$1$
+code
+Failed to connect to the remote registry.
+code
+Nessus is currently configured to not log in with user accounts not specified in the scan policy.
+code
+Local checks are not enabled.
+code
+Local checks for $1$ on the '$2$' architecture have not been implemented.
+$2$
+code
+The host's architecture is not $1$.
+The host's architecture is $2$, not $1$.
+code
+Failed to determine the host's architecture.
+code
+Failed to obtain the list of installed packages.
+Failed to obtain the list of installed $1$.
+code
+The $1$ package is not installed.
+code
+The $1$ package is installed and not affected.
+code
+The host is not managed by $1$.
+code
+Failed to get the file version of $1$.
+code
+The version, $1$, does not appear to be valid.
+code
+Failed to get the version of the $1$ service on port $2$.
+code
+audit() was not passed any arguments.
+code
+audit() was passed an unknown identifier: '$1$'.
+$1$
+code
+audit() was passed $1$ parameter(s) for identifier $2$, but there are no format strings that match.
+code
+Audit template $1$ does not contain an exit code.
+code
+Audit template $1$ was passed a NULL value.
+code
+Audit template $1$ was passed an array value: $2$.
+code
+unknown
+
+Unexpected nested array in AUDIT_INST_VER_NOT_VULN version list.
+, 
+and 
+ and 
+ is 
+ are 
+ version 
+ versions 
+[ 
+ => 
+, 
+ ]
+\$([0-9]+)\$
+\${\1}\$
+\$
+\$
+ 
+package is
+packages are
+Hole
+Warning
+Note
+global_settings/network_type
+LAN
+Internet
+global_settings/report_verbosity
+Normal
+Quiet
+Verbose
+global_settings/report_paranoia
+Avoid false alarms
+Normal
+Paranoid
+global_settings/debug_level
+global_settings/experimental_scripts
+no
+yes
+global_settings/thorough_tests
+no
+yes
+(
+): 
+\n
+\n
+DEBUG: 
+(
+): 
+\n
+\n
+ERR: 
+beginning_of_response2: missing parameter resp.
+^[ \t]+
+
+\n
+[...]\n
+www/
+/XSS
+www/
+/XSRF
+www/
+/SQLInjection
+text/plain
+-
+-
+ snip 
+-
+s
+
+\nNessus was able to execute the command "
+" using the
+\nfollowing request
+ :
+\n
+\n
+-
+ Request #
+-
+\n
+
+\n
+\n
+\n
+\n\n
+This produced the following truncated output (limited to 
+ lines) :
+\n
+\n
+\n
+\n
+s
+
+\nNessus was able to exploit the issue to retrieve the contents of 
+'
+'
+\n
+ using the following request
+ :
+\n
+\n
+-
+ Request #
+-
+\n
+
+\n
+\n
+\n
+nasl_level
+sc_version
+\n
+This produced the following truncated output (limited to 
+ lines) :
+\n
+\n
+\n
+\n
+^.+/([^/]+)$
+\1
+^.+\\([^\\]+)$
+\1
+\n
+Attached is a copy of the response
+\n
+type
+name
+value
+s
+
+\nNessus was able to exploit the issue using the following request
+ :\n\n
+-
+ Request #
+-
+\n
+
+\n
+\n
+\n
+\n\n
+This produced the following truncated output (limited to 
+ lines) :
+\n
+\n
+\n
+\n
+8.0
+9.0
+10.0
+11.0
+12.0
+14.0
+15.0
+16.0
+shavlik
+VMware Go
+sccm
+SCCM
+wsus
+WSUS
+ibm_tem
+IBM TEM
+k1000
+Dell KACE K1000
+altiris
+Symantec Altiris
+SMB/Registry/HKLM/SOFTWARE/Microsoft/Exchange/Setup/ServicePackBuild
+SMB/Registry/HKLM/SOFTWARE/Microsoft/DataAccess/Version
+SMB/Office/Word
+SMB/Office/Excel
+SMB/Office/Powerpoint
+SMB/Office/Publisher
+SMB/Office/Outlook/*/Path
+SMB/IE/Version
+SMB/Registry/HKLM/SOFTWARE/Microsoft/Works
+SMB/Registry/HKLM/SYSTEM/CurrentControlSet/Services/W3SVC/ImagePath
+SMB/Registry/HKLM/SYSTEM/CurrentControlSet/Services/WINS/DisplayName
+SMB/Registry/HKLM/SYSTEM/CurrentControlSet/Services/DHCPServer
+SMB/Registry/HKLM/SYSTEM/CurrentControlSet/Control/ProductOptions
+SMB/Registry/HKLM/SYSTEM/CurrentControlSet/Control/ProductOptions
+SMB/WindowsVersion
+6.0
+6.1
+6.2
+6.3
+SMB/IE/Version
+SMB/ProductName
+Hyper-V Server
+SMB/Registry/HKLM/SOFTWARE/Microsoft/Windows NT/CurrentVersion/Winlogon/Shell
+explorer.exe
+SMB/ServerCore
+MSSQL/Path
+SMB/Registry/HKLM/SOFTWARE/Microsoft/Windows/CurrentVersion/ProgramFilesDir
+SMB/Registry/HKLM/SOFTWARE/Microsoft/Windows/CurrentVersion/ProgramFilesDirx86
+SMB/Registry/HKLM/SOFTWARE/Microsoft/Windows/CurrentVersion/CommonFilesDir
+SMB/Registry/HKLM/SOFTWARE/Microsoft/Windows/CurrentVersion/CommonFilesDirx86
+Outlook
+Word
+WordViewer
+Excel
+ExcelViewer
+Powerpoint
+Publisher
+SMB/Office/
+/
+/Path
+^([A-Za-z]:.*)\\Microsoft Office.*
+\1
+SMB/Office/
+/
+/Path
+^([A-Za-z]:.*)\\Microsoft Office.*
+\1
+Outlook
+Word
+WordViewer
+Excel
+ExcelViewer
+Powerpoint
+Publisher
+SMB/Office/
+/
+/Path
+^([A-Za-z]:.*)\\Microsoft Office.*
+\1\Common Files
+SMB/Office/16.0/Bitness
+^([A-Za-z]:.*Microsoft Office).*
+\1\root\VFS\ProgramFilesCommon
+SMB/Office/
+/
+/Path
+^([A-Za-z]:.*)\\Microsoft Office.*
+\1\Common Files
+SMB/Registry/HKLM/SOFTWARE/Microsoft/Windows/CurrentVersion/SystemRoot
+as_dir
+as_share
+hotfix_get_systemdrive(): "as_dir" and "as_share" are mutually exclusive.
+Bad arguments passed to hotfix_get_systemdrive().
+Failed to get system root.
+^(([A-Za-z]):\\)
+Failed to parse system root.
+$
+SMB/Registry/HKLM/SOFTWARE/Microsoft/Windows NT/CurrentVersion/ProfileList/ProgramData
+Failed to get system root.
+^(([A-Za-z]):\\)
+Failed to parse system root.
+ProgramData
+SMB/WindowsVersion
+SMB/CSDVersion
+.*Service Pack ([0-9]).*
+\1
+SMB/CSDVersion
+.*Service Pack ([0-9]).*
+\1
+SMB/CSDVersion
+.*Service Pack ([0-9]).*
+\1
+SMB/CSDVersion
+.*Service Pack ([0-9]).*
+\1
+SMB/CSDVersion
+.*Service Pack ([0-9]).*
+\1
+SMB/CSDVersion
+.*Service Pack ([0-9]).*
+\1
+SMB/CSDVersion
+.*Service Pack ([0-9]+).*
+\1
+SMB/CSDVersion
+.*Service Pack ([0-9]+).*
+\1
+nt
+win2k
+xp
+win2003
+vista
+win7
+win8
+win8.1
+win10
+nt
+win2k
+xp
+win2003
+vista
+win7
+win8
+win8.1
+win10
+,
+The specified minimum service pack for 
+ is greater than the maximum service pack.\n
+An invalid number of service packs was supplied for the range for 
+.\n
+SMB/CSDVersion
+\1
+.*Service Pack ([0-9]+).*
+patch_management/
+report_xml_tag
+/missing_patch/nt/bulletin/
+The following patch management products report :\n
+  
+ :  Vulnerable\n
+  
+ : NOT vulnerable\n
+SMB/transport
+\n\n*Nessus did not run local checks.\n
+\n\n
+tcp
+: service is already known on port 
+:
+\n
+Known/
+/
+tcp
+Services/
+Services/
+/
+Services/unknown
+: register_service: port=
+, proto=
+\n
+tcp
+Known/
+/
+Known service on port 
+\n
+Unknown service on port 
+\n
+Services/Silent/
+tcp
+Known/
+/
+tcp
+Known/
+/
+Services/
+Services/
+/
+No '
+' service was detected
+", svc, "
+, including on TCP port 
+, including on 
+ port 
+.
+Port 
+ is not open.
+UDP port 
+ is not open.
+tcp
+tcp
+Services/
+Services/
+/
+Known/
+/
+/
+ was not detected
+mysql/version/
+mysql/version/
+get_kb_banner: missing argument port\n
+get_kb_banner: invalid port 
+\n
+get_kb_banner: missing argument type\n
+tcp
+FindService/
+/
+/
+\n
+tcp
+FindService/
+/
+/
+get_unknown_banner2: invalid port 
+\n
+tcp
+spontaneous
+get_http
+help
+FindService/
+/
+/
+unknown/banner/
+unknown/banner/
+/
+?
+BannerHex/
+spontaneous
+Banner/
+spontaneous
+Amap/
+/
+/FullBanner
+amap
+/
+spontaneous
+unknown/banner/
+unknown/banner/
+/
+tcp
+Services/
+Services/
+/
+/banner/
+/banner/
+/
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_
+
+hex2raw: odd string: 
+\n
+a
+a
+/banner/
+www
+web server
+proxy
+web proxy
+hylafax-ftp
+hylafax
+HylaFAX server
+agobot.fo
+Agobot.fo backdoor
+unknown_irc_bot
+IRC bot
+auth
+identd
+ server
+FTP
+An 
+a
+e
+i
+o
+An 
+A 
+ is running on this port
+: unknown arg type 
+ in function make_list\n
+
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+
+==
+=
+
+.Date: ([0-9]+)/([01][0-9])/([0-3][0-9]) ([0-2][0-9]):([0-6][0-9]):([0-6][0-9]) \$
+Services/unknown
+Services/unknown
+Services/three_digits
+
+^([0-9]+)\.?
+0
+array
+
+~|~
+,
+,
+~|~
+,
+,$
+
+,
+
+~|~
+,
+.
+.
+checks_read_timeout
+A KB key wasn't provided to get_kb_item_or_exit().
+The '
+' KB item is not set.
+"+kb+"
+get_global_kb_item
+get_global_kb_item() is not defined.
+A KB key wasn't provided to get_global_kb_item_or_exit().
+The '
+' global KB item is not set.
+"+kb+"
+A KB key wasn't provided to get_kb_list_or_exit().
+No '
+' KB items are set.
+"+kb+"
+ 
+
+asterisk
+-beta(\d+)
+-rc(\d+)
+-cert(\d+)
+ver_compare(): 'strict' cannot be set to TRUE when version mangling is used.
+strict
+.
+.
+ver_compare(): '
+' is not a well-known application.
+", app, "
+.
+.\1
+^[-\d]+(\.[-\d]+)*$
+ver_compare(): Invalid argument ver='
+' or fix='
+'.
+", ver, "
+", fix, "
+.
+.
+.
+ \t\n\r
+:= 
+get_key_and_value(): was not passed an argument.
+get_key_and_value(): was passed a zero-length string.
+^[
+]$
+key
+value
+parse_properties(): was not passed an argument.
+parse_properties(): was passed a zero-length string.
+^[!#]$
+key
+value
+The service on port 
+ is still alive.
+The service on port 
+ is still alive.
+An IPS may be in the way.
+tcp
+Ports/
+/
+*
+\n
+:
+\n
+
+ for blob 
+\n
+\0
+Z
+:
+B64:
+P:
+A KB key wasn't provided to get_kb_blob_list().
+A KB key wasn't provided to get_kb_blob_list_or_exit().
+No '
+' KB items are set.
+"+kb+"
+xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx
+xxxxxxxxxxxx4xxxyxxxxxxxxxxxxxxx
+x
+x
+y
+branch: This function takes one argument.\n
+branch: This function only works on lists and arrays.\n
+branch: This function requires at least one of the key or value parameters to be true.\n
+/tmp/branch/
+/
+/
+make_nested_array: odd number (
+) of arguments.
+int
+plugin_selection.family.
+plugin_selection.individual_plugin.
+disabled
+enabled
+mixed
+enabled
+<unknown>
+Failed.
+\n\s*
+
+ASSERT::
+: Passed a non-boolean value 
+.
+ASSERT::
+: 
+Wrong number of arguments passed to assert_eq.
+\n\s*
+ 
+\n\s*
+ 
+Expected `
+` but got `
+`.
+Wrong number of arguments passed to assert_ne.
+\n\s*
+ 
+Expected to not get `
+`.
+len(): Missing required arg 'object'.
+object
+len(): Missing required arg 'elements'.
+elements
+maxlen(): arg 'elements' is not iterable.
+elements
+maxlen(): arg 'same_type' set but elements not all of same type.
+same_type
+empty(): missing required arg 'object'
+object
+multiline_eregmatch(): missing required arg 'string'
+string
+multiline_eregmatch(): missing required arg 'pattern'
+pattern
+\r\n
+\n
+path_split(): missing required arg 'path'
+path
+^(.*[\/\\])+(.*(\.\w+)?)?$
+
+
+dirname(): missing required arg 'path'
+path
+a
+h
+o
+operating-system-unsupported
+true
+register_unsupported_product(): missing required arg 'product_name'
+product_name
+unknown
+register_unsupported_product(): missing required arg 'base_path'
+base_path
+
+x-
+NumUnsupportedProducts
+UnsupportedProducts/
+/product_name
+UnsupportedProducts/
+/cpe_prefix
+UnsupportedProducts/
+/cpe_class
+UnsupportedProducts/
+/cpe_base
+UnsupportedProducts/
+/version
+NumUnsupportedProducts
+
+array
+array
+\n  
+ 
+ : 
+\n  
+ 
+ : 
+\n
+kerberos_func.inc
+query_scratchpad
+nasl_level
+CREATE TABLE IF NOT EXISTS SMB_HF ( bulletin text, kb text, script_name text, CONSTRAINT hf_primary_key PRIMARY KEY (bulletin, kb) ON CONFLICT IGNORE )
+CREATE INDEX IF NOT EXISTS SMB_HF_KbIndex ON SMB_HF(kb)
+CREATE INDEX IF NOT EXISTS SMB_HF_BulletinIndex ON SMB_HF(bulletin)
+INSERT INTO SMB_HF VALUES (?, ?, ?)
+report_xml_tag
+SMB/transport
+\n
+\n
+SMB/transport
+SMB/transport
+\n
+\n
+SMB/transport
+SMB/transport
+\n
+\n
+SMB/transport
+path
+hotfix_get_file_contents(): missing required arg "path"
+error
+^([A-Za-z]):(.+)$
+hotfix_get_fversion(): unable to parse pathname: 
+error
+$
+error
+error
+
+error
+error
+data
+path
+hotfix_get_pversion(): missing required arg "path"
+error
+^([A-Za-z]):(.+)$
+hotfix_get_pversion(): unable to parse pathname: 
+error
+$
+SMB/ProductVersions/
+\
+/
+$
+error
+value
+error
+error
+error
+error
+value
+path
+hotfix_get_pname(): missing required arg "path"
+error
+^([A-Za-z]):(.+)$
+hotfix_get_pname(): unable to parse pathname: 
+error
+$
+SMB/ProductNames/
+\
+/
+$
+error
+value
+error
+error
+error
+error
+value
+path
+hotfix_get_fversion(): missing required arg "path"
+error
+^([A-Za-z]):(.+)$
+hotfix_get_fversion(): unable to parse pathname: 
+error
+$
+SMB/FileVersions/
+\
+/
+$
+.
+error
+value
+error
+error
+.
+.
+.
+error
+error
+value
+path
+hotfix_get_timestamp(): missing required arg "path"
+error
+^([A-Za-z]):(.+)$
+hotfix_get_timestamp(): unable to parse pathname: 
+error
+$
+SMB/Timestamps/
+\
+/
+$
+.
+error
+value
+error
+error
+dwTimeDateStamp
+error
+dwTimeDateStamp
+error
+value
+^([A-Za-z]):.*
+\1$
+
+\
+^[A-Za-z]:(.*)
+\1
+.
+SMB/FileVersions/
+\
+/
+$
+.
+.
+.
+.
+.
+.
+\n  Product : 
+\n
+\n
+  - 
+$
+:
+ has not been patched.\n
+    Remote version : 
+.
+.
+.
+\n
+    Should be      : 
+.
+.
+.
+\n
+SMB/WindowsVersion
+SMB/CSDVersion
+SMB/ARCH
+.*Service Pack ([0-9]).*
+\1
+\
+8.0
+97
+9.0
+2000
+10.0
+XP
+11.0
+2003
+12.0
+2007
+14.0
+2010
+15.0
+2013
+16.0
+2016
+SMB/Office/
+/*/ProductPath
+
+/
+/ProductPath
+.
+.
+/SP
+sp
+ 
+\n  Product           : 
+ 
+\n  Product           : 
+ has not been patched.
+\n  - 
+\n    Remote version    : 
+version
+\n    Fixed version     : 
+\n
+kb
+^([A-Za-z]):.*
+\1$
+SMB/AccessibleShare/
+SMB/AccessibleShare/
+^([A-Za-z]):.*
+\1$
+
+missing \
+ argument to handle_hotfix_error()
+missing \
+ argument to handle_hotfix_error()
+^([A-Za-z]):(.+)$
+hotfix_get_fversion(): unable to parse pathname: 
+The file \
+ + file + 
+ does not exist.
+The file \
+ + file + 
+ does not exist.
+Error connecting to SMB service on remote host.
+Error connecting to SMB service on remote host.
+Failed to connect to the \
+ + share + 
+ share.
+Error accessing '
+'. Invalid credentials or share doesn't exist.
+" + file + "
+Error accessing '
+'. Invalid credentials or share doesn't exist.
+" + file + "
+Failed to get the file version of \
+ + file + 
+.
+Failed to get the timestamp of \
+ + file + 
+.
+Failed to get the timestamp of '
+'.
+" + file + "
+Unknown error when attempting to access \
+ + file + 
+.
+Unknown error when attempting to access '
+'.
+" + file + "
+no path specified in hotfix_append_path()
+no value specified in hotfix_append_path()
+\
+SMB/WindowsVersion
+SMB/CSDVersion
+SMB/ARCH
+.*Service Pack ([0-9]).*
+\1
+0.0.0.0
+
+\1
+^\\\\.*\\\\(.*)$
+  - 
+\n
+\nNessus does not have a registry key to check for KB
+.\n
+\nNessus did not find a version for the following files :\n
+IPC$
+\nNessus was unable to connect to the $IPC share.\n
+\nNessus did not find a version for the following files :\n
+\nNessus was unable to open a connection to the HKLM hive.\n
+\nNessus did not find a version for the following files :\n
+\nAccording to the registry, KB
+ is missing.\n
+\nNessus did not find a version for the following files :\n
+0.0.0.0
+\WinSxS
+\n
+None of the versions of \
++fname+
+ under 
+\n
+have been patched.\n
+  Fixed version : 
+
+\*
+*
+\
+\
+.
+.
+SMB/FileVersions
+\
+/
+.
+.
+.
+SMB/FileVersions
+\
+/
+_([0-9]+.[0-9]+.[0-9]+.[0-9]+)_
+path
+appname
+error
+SMB/User Directory
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList\ProfilesDirectory
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\SystemRoot
+%systemdrive%
+$
+:
+SMB/WindowsVersion
+^[A-Za-z]:(.*)
+\1\*
+\Local Settings\Application Data
+\AppData\Local
+\\
+SMB/User Directory
+SMB/Registry/HKLM/SOFTWARE/Microsoft/Windows/CurrentVersion/Uninstall/*/DisplayName
+SMB/registry_full_access
+registry_init(): hotfix_check_fversion_init() failed
+IPC$
+Can\
+hive
+registry_hive_connect(): missing required arg "hive"
+Failed to connect to the remote registry.
+handle
+get_registry_subkeys(): missing required arg "handle"
+key
+get_registry_subkeys(): missing required arg "key"
+^SOFTWARE\\(.*)
+SOFTWARE\\Wow6432Node\\\1
+handle
+get_values_from_key(): missing required arg "handle"
+entries
+get_values_from_key(): missing required arg "entries"
+key
+get_values_from_key(): missing required arg "key"
+\
+handle
+get_registry_value(): missing required arg "handle"
+item
+get_registry_value(): missing required arg "item"
+handle
+get_registry_values(): missing required arg "handle"
+items
+get_registry_values(): missing required arg "items"
+^(.*)\\\\([^\\\\]+)?$
+error parsing registry entry: 
+Unable to open key: 
+handle
+get_reg_name_value_table(): missing required arg "handle"
+key
+get_reg_name_value_table(): missing required arg "key"
+
+(default)
+state
+operator
+count
+
+byte_order
+keywords
+keywords
+kw
+keywords_pos
+keyword_new
+count_keywords
+count_keywords
+result
+count_keywords_pos
+operator
+format_pos
+state
+Illegal operator in pack/unpack: '*' followed by a number.
+*
+count
+format_pos
+Illegal operator in pack/unpack: a number followed by '*'.
+*
+count
+*
+format_pos
+Illegal operator in pack/unpack: a number followed by '#'.
+#
+Illegal operator in pack: '#' is only permitted in unpack().
+#
+count
+#
+format_pos
+Illegal operator in pack/unpack: 'x', 'X', and '@' make no sense when followed by a keyword.
+x
+X
+@
+Illegal operator in pack/unpack: ']' and '}' make no sense when followed by a keyword.
+]
+}
+pack() used a keyword lookup when no keywords were provided.
+count_keywords
+keywords
+keyword_new
+_pos
+
+format_pos
+state
+Illegal operator in pack/unpack: '<' and '>' can only modify i, I, l, L, s, S, t, and T.
+<
+>
+byte_order
+format_pos
+Illegal operator in pack/unpack: '<' and '>' can only modify i, I, l, L, s, S, t, and T.
+<
+>
+byte_order
+format_pos
+Illegal operator in pack/unpack: '!' (native endian) not supported.
+!
+count
+count
+dynamic_count
+count
+count
+state
+count_keywords
+keywords
+state
+_pos
+_pos
+state
+format_pos
+_pos
+format_pos
+unpack() tried to add '
+operator
+' to an array without a keyword argument.
+" + state["operator"] + "
+keywords
+keyword_new
+types
+types_pos
+list
+keywords
+keywords_pos
+types
+types_pos
+array
+keywords
+keywords_pos
+keywords
+keywords_pos
+Illegal operation in unpack(): Attempted to close array with ']'.
+]
+keywords
+keywords_pos
+Illegal operation in unpack(): Attempted to close list with '}'.
+}
+types
+types_pos
+keywords
+keywords_pos
+keywords
+keywords_pos
+Illegal operation in unpack(): unmatched '
+operator
+'.
+" + state["operator"] + "
+
+Illegal operator in unpack(): '@*' is an invalid combination.
+@*
+data_pos
+count
+count
+count
+*
+data_pos
+data_pos
+data_pos
+data_pos
+byte_order
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+byte_order
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+Illegal operator in unpack() - 64-bit values are not supported.
+Illegal operator in unpack() - 64-bit values are not supported.
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+data_pos
+dynamic_count
+count_keywords
+Illegal operator in unpack() - UTF-8 is not supported.
+Illegal operator in unpack() - BER integers are not supported.
+Illegal operator in unpack() - floating point is not supported.
+Illegal operator in unpack() - base64 and MIME encoding not implemented.
+Illegal operator in unpack() - pointers not implemented.
+Illegal operator in unpack() - '
+operator
+'.
+" + state["operator"] + "
+\0
+\0
+
+count
+
+count
+state
+count
+count
+*
+keywords
+args_pos
+result
+result
+args_pos
+result
+byte_order
+args_pos
+result
+args_pos
+result
+args_pos
+result
+result
+
+args_pos
+result
+byte_order
+args_pos
+result
+args_pos
+result
+args_pos
+Illegal operator in pack() - 64-bit values are not supported.
+result
+result
+result
+\0
+result
+ 
+result
+result
+\0
+result
+\0
+
+0
+0
+result
+
+0
+0
+result
+result
+count
+\0
+result
+result
+result
+count
+Illegal operator in pack(): '@*' is an invalid combination
+@*
+result
+result
+count
+result
+count
+result
+\0
+Illegal operator in pack() - UTF-8 is not supported.
+Illegal operator in pack() - BER integers are not supported.
+Illegal operator in pack() - floating point is not supported.
+Illegal operator in pack() - base64 and MIME encoding not implemented.
+Illegal operator in pack() - pointers not implemented.
+Illegal operator in pack() - '
+operator
+'.
+" + state["operator"] + "
+args_pos
+state
+data_pos
+dynamic_count
+format_pos
+function
+unpack
+keywords_pos
+types_pos
+result
+types
+list
+keywords
+keywords
+result
+keywords
+state
+format_pos
+format_pos
+unpack() reached an illegal state.
+result
+result
+args_pos
+format_pos
+function
+pack
+result
+
+kw
+pack was not implicitly nor explicitly given a format.
+args_pos
+state
+format_pos
+format_pos
+kw
+result
+!
+#
+$
+%
+&
+'
+(
+)
+*
++
+,
+-
+.
+/
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+:
+;
+<
+=
+>
+?
+@
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+[
+\
+]
+^
+_
+`
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+{
+|
+}
+~
+
+
+data
+int
+string
+uint
+undef
+array
+list
+  
+uint(
+)
+"
+"
+\0
+\\0
+\
+, 
+
+\\
+\\\\
+\n
+\\n
+\r
+\\r
+\t
+\\t
+
+\
+x
+'
+'
+NULL
+list
+
+make_nested_
+(
+)
+,
+\n
+, 
+)
+\n
+<unknown>
+keywords
+args_pos
+state
+state
+format_pos
+result
+format_pos
+result
+%
+state
+vsprintf used a keyword lookup when no keywords were provided.
+keywords
+keywords
+
+format_pos
+state
+result
+%
+format_pos
+state
+state
+state
+state
+state
+format_pos
+keywords
+keywords
+format_pos
+state
+leading_plus
+format_pos
+leading_space
+format_pos
+alternate_form
+format_pos
+left_justify
+format_pos
+state
+format_pos
+state
+state
+state
+state
+width
+width
+format_pos
+state
+format_pos
+state
+state
+precision
+precision
+format_pos
+state
+state
+type
+state
+format_pos
+
+0b
+leading_plus
+width
+precision
+leading_plus
+leading_space
+left_justify
+
+0
+leading_plus
+width
+precision
+leading_plus
+leading_space
+left_justify
+precision
+width
+leading_plus
+leading_space
+left_justify
+precision
+
+0x
+leading_plus
+width
+leading_plus
+leading_space
+left_justify
+precision
+left_justify
+width
+ 
+width
+ 
+left_justify
+width
+ 
+width
+ 
+
+ 
+width
+ 
+ : 
+\n
+result
+result
+result
+result
+result
+result
+result
+result
+args_pos
+state
+precision
+width
+pad_with_zero
+leading_plus
+leading_space
+alternate_form
+left_justify
+keywords
+keywords
+kw
+format_pos
+args_pos
+kw
+vsprintf was not implicitly nor explicitly given a format.
+args_pos
+state
+format_pos
+vsprintf ended up in an invalid state: 
+state
+.
+kw
+result
+data
+string
+
+
+
+
+
+
+
+0
+0
+0
+A
+a
+0
+a
+
+
+
+
+1
+
+
+
+
+0
+1
+7
+7
+f
+f
+
+..
+-
+0
+0
+0
++
+ 
+
+
+ 
+
+
+ 
+mask_string(): missing required arg 'string'
+string
+mask_string(): arg mask_length must be nonnegative
+*
+/display_version
+- 
+Path
+/priority
+installed_sw/
+;
+Source
+unknown
+/version
+Version
+%s(): Unknown or upstream error occurred.
+%s(): missing required argument '%s'.
+%s
+%s(): '%s' arg must be type '%s'.
+%s
+%s
+%s(): '%s' variable is unexpectedly NULL.
+%s
+%s(): Failure parsing variable '%s'.
+%s
+%s(): The function '%s' is not defined. Try including '%s'.
+%s
+%s
+app_name
+*/
+/*
+/
+port
+register_install
+app_name
+path
+port
+port
+int
+extra
+array
+extra_no_report
+array
+
+/
+www/
+/webapp_installed
+
+URL
+make_app_kb_key
+app_name
+port
+int
+/
+make_install_kb_key
+app_kb_key
+path
+/
+add_install_to_kb
+install_kb_key
+version
+priority
+display_version
+string
+extra
+array
+extra_no_report
+array
+add_extra_to_kb
+install_kb_key
+extra
+extra
+array
+extra['
+']
+extra['
+']
+string/list/int
+array
+/
+add_install_to_report
+app_name
+path
+version
+extra
+array
+
+process_extra
+extra
+extra
+array
+extra['
+']
+extra['
+']
+string/list
+add_string_data_to_report
+report
+path
+version
+field_length
+extra
+array
+field_length
+int
+s : %s
+\n  %-
+extra['
+']
+string
+\n
+add_list_data_to_report
+report
+extra
+extra
+array
+extra['
+']
+list
+\n  
+ :
+\n    
+\n
+report_installs
+port
+int
+extra
+string
+
+\n--- 
+ ---\n
+\n
+\n
+add_header_to_report
+app_name
+\nNessus detected 
+ installs of 
+:\n
+get_installs
+app_name
+port
+int
+get_single_install
+app_name
+port
+int
+get_single_install() should only be called once per app to avoid excessive forking.
+port
+path
+find_installs_by_key
+app_kb_key
+/*
+get_install_data_from_keys
+install_kb_keys
+install_kb_keys
+list
+/*
+path
+/
+get_path_from_kb_key
+install_kb_key
+(?:\d+/)?.+/(.*)
+install_kb_key
+installed_sw/([0-9]+)/
+/
+
+get_install_count
+app_name
+IF_base64
+str
+=
+$
+/
+&
+IF_base64
+str
+$
+=
+&
+/
+return_error(): missing required argument 'error_template'.
+error_template
+return_error(): missing required argument 'args'.
+args
+return_error(): An invalid error template was passed.
+return_error(): The number of args passed does not match the error template for 
+error code: 
+. (Expected 
+, received 
+)
+
+https://
+:
+http://
+:
+:
+@
+/
+/
+SOFTWARE\Adobe\Audition
+\
+\ApplicationPath
+SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths
+\
+\
+Adobe Audition
+"
+
+AdobeAdobe
+Adobe\\Adobe
+Unknown
+value
+.
+.
+ Build 
+ Build 
+\
+
+/Path
+/ExePath
+/Version_UI
+Adobe Audition
+cpe:/a:adobe:audition
+\n  Path    : 
+\n  Version : 
+\n
+s of Adobe Audition were found 
+ of Adobe Audition was found 
+\n  The following install
+on the
+\n  remote host :
+\n
+Adobe Audition
